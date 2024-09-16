@@ -1,0 +1,6416 @@
+[
+   {
+      "display_name":"Abercrombie",
+      "lat":45.629116389,
+      "lon":-62.6849051949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Admiral Rock",
+      "lat":45.168833271,
+      "lon":-63.4074259029999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Advocate Harbour",
+      "lat":45.33681477,
+      "lon":-64.7832456509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Albany",
+      "lat":44.800034436,
+      "lon":-65.0569647609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Albany Cross",
+      "lat":44.721123489,
+      "lon":-65.0228079209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Albert Bridge",
+      "lat":46.024767173,
+      "lon":-60.0630770409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Alder Point",
+      "lat":46.294406738,
+      "lon":-60.2815943069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Aldersville",
+      "lat":44.816699456,
+      "lon":-64.4999989159999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Allendale",
+      "lat":43.751025505,
+      "lon":-65.0931778459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Alma",
+      "lat":45.579241686,
+      "lon":-62.7609104069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Alton",
+      "lat":45.19107334,
+      "lon":-63.3045199809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Amherst",
+      "lat":45.830781456,
+      "lon":-64.2098065179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Amherst Head",
+      "lat":45.889191123,
+      "lon":-63.9896703969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Amherst Shore",
+      "lat":45.974808087,
+      "lon":-63.9011560139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Amherst Shore Provincial Park",
+      "lat":45.9499999999999,
+      "lon":-63.8867,
+      "province":"NS"
+   },
+   {
+      "display_name":"Amiraults Hill",
+      "lat":43.814910853,
+      "lon":-65.9820416259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Annapolis Basin Look Off Provincial Park",
+      "lat":44.6390969999999,
+      "lon":-65.756306,
+      "province":"NS"
+   },
+   {
+      "display_name":"Annapolis Royal",
+      "lat":44.744891693,
+      "lon":-65.5112197859999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Anthony Provincial Park",
+      "lat":45.315402,
+      "lon":-63.605715,
+      "province":"NS"
+   },
+   {
+      "display_name":"Antigonish",
+      "lat":45.623888714,
+      "lon":-61.9944888749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Apple River",
+      "lat":45.46100349,
+      "lon":-64.7849150049999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Arcadia",
+      "lat":43.82379151,
+      "lon":-66.0601798589999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Argyle",
+      "lat":43.793876547,
+      "lon":-65.8550360259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Arichat",
+      "lat":45.510972004,
+      "lon":-61.0180495409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Arisaig",
+      "lat":45.758212835,
+      "lon":-62.1657122279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Arisaig Provincial Park",
+      "lat":45.75567,
+      "lon":-62.167506,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ashdale (Hants)",
+      "lat":45.011825779,
+      "lon":-63.9259390209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Askilton",
+      "lat":45.690460623,
+      "lon":-61.3122460829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Aspen",
+      "lat":45.30136983,
+      "lon":-62.0514685899999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Athol",
+      "lat":45.672290433,
+      "lon":-64.2171051759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Athol Road",
+      "lat":45.635049608,
+      "lon":-64.0768536409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Auburn",
+      "lat":45.019438307,
+      "lon":-64.8702112819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Aulds Cove",
+      "lat":45.646434261,
+      "lon":-61.4359260599999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Avondale (Pictou)",
+      "lat":45.633300827,
+      "lon":-62.2999994059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Avonport",
+      "lat":45.099254658,
+      "lon":-64.2551209809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Aylesford",
+      "lat":45.029075723,
+      "lon":-64.8406756109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Aylesford East",
+      "lat":45.030102835,
+      "lon":-64.8110447039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Baccaro",
+      "lat":43.47627154,
+      "lon":-65.4715294229999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Baddeck",
+      "lat":46.1013713,
+      "lon":-60.7536511689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Baddeck Bay",
+      "lat":46.131958535,
+      "lon":-60.6955588799999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Baddeck Bridge",
+      "lat":46.122689753,
+      "lon":-60.7976757969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bakers Settlement",
+      "lat":44.39873265,
+      "lon":-64.6798690689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Balfron",
+      "lat":45.669727373,
+      "lon":-63.2326874149999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ballantynes Cove",
+      "lat":45.859580839,
+      "lon":-61.9195322409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Barr Settlement",
+      "lat":45.136252118,
+      "lon":-63.6194374829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Barra Head",
+      "lat":45.678664938,
+      "lon":-60.7836936209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Barrachois Provincial Park",
+      "lat":46.141736,
+      "lon":-60.4434,
+      "province":"NS"
+   },
+   {
+      "display_name":"Barrington Head",
+      "lat":43.567106623,
+      "lon":-65.5785956829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Barrington Passage",
+      "lat":43.526185289,
+      "lon":-65.6106097169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Barss Corner",
+      "lat":44.566699585,
+      "lon":-64.6832950419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Barton",
+      "lat":44.535328068,
+      "lon":-65.8724554779999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bass River",
+      "lat":45.414536855,
+      "lon":-63.7823661449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Battery Provincial Park",
+      "lat":45.649223,
+      "lon":-60.865894,
+      "province":"NS"
+   },
+   {
+      "display_name":"Baxters Harbour",
+      "lat":45.226026003,
+      "lon":-64.5162135349999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bay St. Lawrence",
+      "lat":47.003680183,
+      "lon":-60.4639638149999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bay View (Digby)",
+      "lat":44.680245124,
+      "lon":-65.7746471229999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bayfield",
+      "lat":45.631927352,
+      "lon":-61.7447614289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bayfield Provincial Park",
+      "lat":45.639947,
+      "lon":-61.759658,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bayhead",
+      "lat":45.743716725,
+      "lon":-63.3735225249999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bayport",
+      "lat":44.323822612,
+      "lon":-64.3166762269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bayside",
+      "lat":44.527668109,
+      "lon":-63.8063088259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bayswater",
+      "lat":44.501582309,
+      "lon":-64.0677479619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bayswater Beach Provincial Park",
+      "lat":44.502635,
+      "lon":-64.066164,
+      "province":"NS"
+   },
+   {
+      "display_name":"Beach Meadows",
+      "lat":44.064516782,
+      "lon":-64.6374548139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bear River",
+      "lat":44.575188843,
+      "lon":-65.6360263689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Beaver Bank",
+      "lat":44.799998934,
+      "lon":-63.6832994509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Beaver Brook",
+      "lat":45.317283076,
+      "lon":-63.4182235819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Beaver Mountain Provincial Park",
+      "lat":45.564512,
+      "lon":-62.1637609999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Beaver River",
+      "lat":44.029856626,
+      "lon":-66.1429203499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bedford",
+      "lat":44.733923805,
+      "lon":-63.6533779289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bell Provincial Park",
+      "lat":44.8756109999999,
+      "lon":-63.817342,
+      "province":"NS"
+   },
+   {
+      "display_name":"Belle Côte",
+      "lat":46.435651328,
+      "lon":-61.1187948869999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Belleisle",
+      "lat":44.802150543,
+      "lon":-65.4038730939999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Belle-Marche",
+      "lat":46.624918403,
+      "lon":-60.9857562509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Belleville",
+      "lat":43.856245529,
+      "lon":-65.9265106119999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Belliveaus Cove",
+      "lat":44.386828485,
+      "lon":-66.0600559659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Belmont (Colchester)",
+      "lat":45.425765533,
+      "lon":-63.3863939549999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ben Eoin Provincial Park",
+      "lat":45.962128,
+      "lon":-60.459805,
+      "province":"NS"
+   },
+   {
+      "display_name":"Berwick",
+      "lat":45.045523295,
+      "lon":-64.7341491099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Berwick West",
+      "lat":45.03127534,
+      "lon":-64.7486159489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bible Hill",
+      "lat":45.377819389,
+      "lon":-63.2514667419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bickerton West",
+      "lat":45.095667888,
+      "lon":-61.7298017449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Big Bank",
+      "lat":46.212648309,
+      "lon":-60.4986961069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Big Bras d'Or",
+      "lat":46.271521528,
+      "lon":-60.4258014519999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Big Farm",
+      "lat":46.103780542,
+      "lon":-60.8192619939999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Big Hill",
+      "lat":46.165542623,
+      "lon":-60.6414543099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Big Marsh (Inverness)",
+      "lat":45.894256291,
+      "lon":-61.2052928139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Big Pond",
+      "lat":45.902919699,
+      "lon":-60.5441419509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Big Tracadie",
+      "lat":45.616699701,
+      "lon":-61.6333020629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Birch Plain",
+      "lat":46.51241336,
+      "lon":-60.4270993259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Birchtown",
+      "lat":43.749999495,
+      "lon":-65.3832996389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Black Point (Halifax)",
+      "lat":44.655177792,
+      "lon":-63.9924147089999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Black Rock",
+      "lat":45.166684549,
+      "lon":-64.7649702459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Blandford",
+      "lat":44.485542546,
+      "lon":-64.1100741419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Blockhouse",
+      "lat":44.446803505,
+      "lon":-64.4121845769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Blomidon Provincial Park",
+      "lat":45.265161,
+      "lon":-64.337321,
+      "province":"NS"
+   },
+   {
+      "display_name":"Blue Mountain (Pictou)",
+      "lat":45.48329874,
+      "lon":-62.4332989099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Blue Rocks",
+      "lat":44.354206151,
+      "lon":-64.2437368249999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Blues Mills",
+      "lat":45.925184454,
+      "lon":-61.1953066359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Boudreauville",
+      "lat":45.509217921,
+      "lon":-60.9632143199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Boularderie",
+      "lat":46.165876823,
+      "lon":-60.5651136239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Boutiliers Point",
+      "lat":44.662546526,
+      "lon":-63.9500771769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Boylston",
+      "lat":45.433300208,
+      "lon":-61.5000006579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Boylston Provincial Park",
+      "lat":45.4233889999999,
+      "lon":-61.528847,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bramber",
+      "lat":45.181190746,
+      "lon":-64.1488689929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bras d'Or",
+      "lat":46.24791637,
+      "lon":-60.2938946779999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brass Hill",
+      "lat":43.55319179,
+      "lon":-65.6003432489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brazil Lake",
+      "lat":43.991531824,
+      "lon":-66.0010428829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brickton",
+      "lat":44.908655343,
+      "lon":-65.1245970809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bridgetown",
+      "lat":44.840736972,
+      "lon":-65.2861535549999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bridgeville",
+      "lat":45.433739158,
+      "lon":-62.6066337179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bridgewater",
+      "lat":44.375476094,
+      "lon":-64.5224756809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brighton",
+      "lat":44.553008647,
+      "lon":-65.8539556959999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Broad Cove (Lunenburg)",
+      "lat":44.183300265,
+      "lon":-64.4833001689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Broad Cove Banks",
+      "lat":46.2129615,
+      "lon":-61.3344863169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brookdale",
+      "lat":45.804689799,
+      "lon":-64.1631710549999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brookfield",
+      "lat":45.256661289,
+      "lon":-63.2790719739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brooklyn (Hants)",
+      "lat":45.006961989,
+      "lon":-64.0131234639999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brooklyn (Queens)",
+      "lat":44.055204286,
+      "lon":-64.6930514449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brooklyn (Yarmouth)",
+      "lat":43.8666988,
+      "lon":-66.0832967199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brookside (Halifax)",
+      "lat":44.554814286,
+      "lon":-63.7190366599999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brule",
+      "lat":45.746876255,
+      "lon":-63.1574758459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brule Corner",
+      "lat":45.740624844,
+      "lon":-63.1773009809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brule Point",
+      "lat":45.757750232,
+      "lon":-63.2085299599999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Brule Shore",
+      "lat":45.74224645,
+      "lon":-63.2385656219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Bush Island",
+      "lat":44.235644393,
+      "lon":-64.3705696289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cabot's Landing Provincial Park",
+      "lat":46.942722,
+      "lon":-60.466846,
+      "province":"NS"
+   },
+   {
+      "display_name":"Caledonia (Guysborough)",
+      "lat":45.282000149,
+      "lon":-62.3927751059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Caledonia (Queens)",
+      "lat":44.372859875,
+      "lon":-65.0289273939999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cambridge (Hants)",
+      "lat":45.201297297,
+      "lon":-64.1051783899999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cambridge (Kings)",
+      "lat":45.057919986,
+      "lon":-64.6357553029999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Camerons Brook Provincial Park",
+      "lat":44.33357,
+      "lon":-64.954739,
+      "province":"NS"
+   },
+   {
+      "display_name":"Canaan (Lunenburg)",
+      "lat":44.676377756,
+      "lon":-64.2433973139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Canada Creek",
+      "lat":45.170314882,
+      "lon":-64.7430091309999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Canning",
+      "lat":45.15869203,
+      "lon":-64.4292956349999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Canso",
+      "lat":45.335620369,
+      "lon":-60.9952268959999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cap Le Moine",
+      "lat":46.507905929,
+      "lon":-61.0717936789999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cape Breton Highlands National Park of Canada",
+      "lat":46.741667,
+      "lon":-60.641667,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cape Chignecto Provincial Park",
+      "lat":45.350705,
+      "lon":-64.909066,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cape George (Antigonish)",
+      "lat":45.842736508,
+      "lon":-61.9270072269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cape Jack",
+      "lat":45.682270155,
+      "lon":-61.5650350269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cape North",
+      "lat":46.887583686,
+      "lon":-60.5028516279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cape Smokey Provincial Park",
+      "lat":46.593909,
+      "lon":-60.3811659999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cape St. Marys",
+      "lat":44.087230026,
+      "lon":-66.2101237399999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Capstick",
+      "lat":47.003160586,
+      "lon":-60.5150155669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Card Lake Provincial Park",
+      "lat":44.719798,
+      "lon":-64.264479,
+      "province":"NS"
+   },
+   {
+      "display_name":"Caribou",
+      "lat":45.732751,
+      "lon":-62.696404,
+      "province":"NS"
+   },
+   {
+      "display_name":"Caribou Island",
+      "lat":45.756847149,
+      "lon":-62.7394738499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Caribou-Munroes Island Provincial Park",
+      "lat":45.721588,
+      "lon":-62.654213,
+      "province":"NS"
+   },
+   {
+      "display_name":"Carleton",
+      "lat":44.008727525,
+      "lon":-65.9348898379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Carleton Corner",
+      "lat":44.834812328,
+      "lon":-65.2974870029999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Carters Cove",
+      "lat":45.686852655,
+      "lon":-60.8446386209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Catalone",
+      "lat":46.009127722,
+      "lon":-59.9457564679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Central Argyle",
+      "lat":43.774249494,
+      "lon":-65.8411950319999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Central Chebogue",
+      "lat":43.789719122,
+      "lon":-66.0897098079999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Central Grove Provincial Park",
+      "lat":44.334705,
+      "lon":-66.275608,
+      "province":"NS"
+   },
+   {
+      "display_name":"Central Onslow",
+      "lat":45.37588836,
+      "lon":-63.3679344179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Central Port Mouton",
+      "lat":43.912401843,
+      "lon":-64.8397766279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Central West River",
+      "lat":45.575321486,
+      "lon":-62.8495558769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Central Woods Harbour",
+      "lat":43.549999592,
+      "lon":-65.7333005319999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Centre Burlington",
+      "lat":45.066700204,
+      "lon":-64.0999987159999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Centre East Pubnico",
+      "lat":43.633300538,
+      "lon":-65.7666998169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Centre Musquodoboit",
+      "lat":45.099998495,
+      "lon":-63.0332980619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Centre Rawdon",
+      "lat":45.048891676,
+      "lon":-63.8433998559999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Centrelea",
+      "lat":44.816700008,
+      "lon":-65.3167038829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Centreville (Digby)",
+      "lat":44.550462444,
+      "lon":-66.0253166019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Centreville (Kings)",
+      "lat":45.134608228,
+      "lon":-64.5281772109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Chance Harbour",
+      "lat":45.666698206,
+      "lon":-62.5833008039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Charleston",
+      "lat":44.164181318,
+      "lon":-64.6617916659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Charlos Cove",
+      "lat":45.248457689,
+      "lon":-61.3295692209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Chaswood",
+      "lat":45.045382729,
+      "lon":-63.2165750259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Chelsea",
+      "lat":44.366744736,
+      "lon":-64.7553862239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cherry Hill",
+      "lat":44.151246842,
+      "lon":-64.4937198759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Chester",
+      "lat":44.544705243,
+      "lon":-64.2404300929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Chester Basin",
+      "lat":44.566492894,
+      "lon":-64.3084017769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Chester Grant",
+      "lat":44.61253867,
+      "lon":-64.3225264049999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Chéticamp",
+      "lat":46.633595867,
+      "lon":-61.0108659279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cheverie",
+      "lat":45.162212915,
+      "lon":-64.1611234919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Chignecto",
+      "lat":45.734557276,
+      "lon":-64.2142527619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Church Point",
+      "lat":44.337834371,
+      "lon":-66.1136173069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Churchover",
+      "lat":43.717450004,
+      "lon":-65.3656605109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Clairmont Provincial Park",
+      "lat":45.009063,
+      "lon":-64.911063,
+      "province":"NS"
+   },
+   {
+      "display_name":"Clam Bay",
+      "lat":44.726704598,
+      "lon":-62.9163041339999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Clam Harbour",
+      "lat":44.734522274,
+      "lon":-62.8813617749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Clam Harbour Provincial Park",
+      "lat":44.731513,
+      "lon":-62.891361,
+      "province":"NS"
+   },
+   {
+      "display_name":"Clark's Harbour",
+      "lat":43.446272692,
+      "lon":-65.6357248039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Clarksville",
+      "lat":45.099997958,
+      "lon":-63.8333007039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Clementsport",
+      "lat":44.662713838,
+      "lon":-65.6119593139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Clementsvale",
+      "lat":44.618235403,
+      "lon":-65.5634824679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cleveland",
+      "lat":45.667478842,
+      "lon":-61.2329996979999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cleveland Beach Provincial Park",
+      "lat":44.650009,
+      "lon":-63.9963769999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Clyde River",
+      "lat":43.630885201,
+      "lon":-65.4773215969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Coddles Harbour",
+      "lat":45.166432305,
+      "lon":-61.5393648579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Coldbrook",
+      "lat":45.05887223,
+      "lon":-64.5914208529999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Coldbrook Provincial Park",
+      "lat":45.068128,
+      "lon":-64.573541,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cole Harbour (Guysborough)",
+      "lat":45.257365738,
+      "lon":-61.2719457069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Collingwood Corner",
+      "lat":45.605284181,
+      "lon":-63.9370700789999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Comeauville",
+      "lat":44.285980941,
+      "lon":-66.1307674969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Commons",
+      "lat":44.551840738,
+      "lon":-64.2305633929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Concession",
+      "lat":44.28922049,
+      "lon":-66.0704879949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Conrod Island Provincial Park",
+      "lat":44.6459549999999,
+      "lon":-63.381534,
+      "province":"NS"
+   },
+   {
+      "display_name":"Conrod Settlement",
+      "lat":44.766700612,
+      "lon":-63.2332987879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cooks Cove",
+      "lat":45.365873884,
+      "lon":-61.4877265569999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Corberrie",
+      "lat":44.237713457,
+      "lon":-65.9245954809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cornwallis Park",
+      "lat":44.649904133,
+      "lon":-65.6290976709999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Country Harbour Lake",
+      "lat":45.302166607,
+      "lon":-61.9060059769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cow Bay",
+      "lat":44.623597816,
+      "lon":-63.4208983639999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Craigmore Provincial Park",
+      "lat":45.8117929999999,
+      "lon":-61.481719,
+      "province":"NS"
+   },
+   {
+      "display_name":"Creignish",
+      "lat":45.72825591,
+      "lon":-61.4565491609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Crescent Grove",
+      "lat":46.118167528,
+      "lon":-60.7226790939999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cross Roads (Colchester)",
+      "lat":45.234823829,
+      "lon":-62.9430405369999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Cross Roads Country Harbour",
+      "lat":45.276729327,
+      "lon":-61.8838321899999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Crowell",
+      "lat":43.541275246,
+      "lon":-65.6063959429999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Crystal Crescent Provincial Park",
+      "lat":44.46017,
+      "lon":-63.620186,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dalem Lake Provincial Park",
+      "lat":46.2504879999999,
+      "lon":-60.423513,
+      "province":"NS"
+   },
+   {
+      "display_name":"Danesville",
+      "lat":44.192772863,
+      "lon":-64.6214181609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Darlings Lake",
+      "lat":43.955591477,
+      "lon":-66.1331358199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dartmouth",
+      "lat":44.672143092,
+      "lon":-63.5621686769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dayspring",
+      "lat":44.375379533,
+      "lon":-64.4808964049999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dayton",
+      "lat":43.873492035,
+      "lon":-66.1034846219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dean",
+      "lat":45.200000496,
+      "lon":-62.8832999339999,
+      "province":"NS"
+   },
+   {
+      "display_name":"DeBaies Cove",
+      "lat":44.750000507,
+      "lon":-62.8167012969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Debert",
+      "lat":45.437935244,
+      "lon":-63.4598166339999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Deep Brook",
+      "lat":44.636614622,
+      "lon":-65.6542588359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Deepdale",
+      "lat":46.195079517,
+      "lon":-61.2834397409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Deerfield",
+      "lat":43.952912189,
+      "lon":-65.9939676869999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Delaps Cove",
+      "lat":44.765313125,
+      "lon":-65.6369594829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"D'Escousse",
+      "lat":45.587257183,
+      "lon":-60.9606987559999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Digby",
+      "lat":44.619460037,
+      "lon":-65.7644541139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Diligent River",
+      "lat":45.411698799,
+      "lon":-64.4592569999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dingwall",
+      "lat":46.895625078,
+      "lon":-60.4774118109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Doctors Cove",
+      "lat":43.520019292,
+      "lon":-65.6306108059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dollar Lake Provincial Park",
+      "lat":44.929259,
+      "lon":-63.320305,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dominion",
+      "lat":46.211921771,
+      "lon":-60.0235633279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dominion Beach Provincial Park",
+      "lat":46.220145,
+      "lon":-60.039659,
+      "province":"NS"
+   },
+   {
+      "display_name":"Donkin",
+      "lat":46.184763995,
+      "lon":-59.8727094189999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Doucetteville",
+      "lat":44.448438967,
+      "lon":-65.8231364059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dover",
+      "lat":45.284410542,
+      "lon":-61.0484457629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Drum Head",
+      "lat":45.15000115,
+      "lon":-61.5999975379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dublin Shore",
+      "lat":44.269163949,
+      "lon":-64.3660480579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Dunmore (Inverness)",
+      "lat":46.007368011,
+      "lon":-61.5134097679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Durells Island",
+      "lat":45.343281375,
+      "lon":-61.0057485929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Durham",
+      "lat":45.618617993,
+      "lon":-62.8100477989999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Earltown",
+      "lat":45.576269949,
+      "lon":-63.1370131629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Advocate",
+      "lat":45.330391652,
+      "lon":-64.7599213159999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Amherst",
+      "lat":45.849997998,
+      "lon":-64.1832951919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Baccaro",
+      "lat":43.460551413,
+      "lon":-65.4679086359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Bay",
+      "lat":46.018763093,
+      "lon":-60.3711821329999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Chezzetcook",
+      "lat":44.721017796,
+      "lon":-63.2343713689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Dalhousie",
+      "lat":44.713346279,
+      "lon":-64.7430138599999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Dover",
+      "lat":44.494603877,
+      "lon":-63.8477030759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Ferry",
+      "lat":44.394569435,
+      "lon":-66.2015972769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Havre Boucher",
+      "lat":45.676964261,
+      "lon":-61.4945234169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Jeddore",
+      "lat":44.729460543,
+      "lon":-63.0029633369999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Jordan",
+      "lat":43.766700655,
+      "lon":-65.2166973949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Kemptville",
+      "lat":44.087032458,
+      "lon":-65.7697055279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Linden",
+      "lat":45.904380122,
+      "lon":-63.8184834659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Mountain",
+      "lat":45.421014159,
+      "lon":-63.1806413889999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Noel",
+      "lat":45.303997029,
+      "lon":-63.6978186749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Petpeswick",
+      "lat":44.764306379,
+      "lon":-63.1469496059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Port Medway",
+      "lat":44.155682049,
+      "lon":-64.5717346449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Pubnico",
+      "lat":43.671655189,
+      "lon":-65.7615336829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Quinan",
+      "lat":43.925824453,
+      "lon":-65.8067459959999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Quoddy",
+      "lat":44.916057345,
+      "lon":-62.3216104759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East River",
+      "lat":44.588309393,
+      "lon":-64.1684305739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East River Provincial Park",
+      "lat":44.5884079999999,
+      "lon":-64.172166,
+      "province":"NS"
+   },
+   {
+      "display_name":"East River Sheet Harbour",
+      "lat":44.920549511,
+      "lon":-62.5130412519999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East River St. Marys",
+      "lat":45.392666976,
+      "lon":-62.1666671219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Ship Harbour",
+      "lat":44.781989716,
+      "lon":-62.8108002679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"East Walton",
+      "lat":45.256041401,
+      "lon":-63.9420523409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Eastern Passage",
+      "lat":44.615440817,
+      "lon":-63.4801490869999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Economy",
+      "lat":45.384636023,
+      "lon":-63.9169682269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ecum Secum",
+      "lat":44.96670112,
+      "lon":-62.1333000509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ecum Secum Bridge",
+      "lat":44.97167449,
+      "lon":-62.1675962849999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ecum Secum West",
+      "lat":44.959119502,
+      "lon":-62.1650480089999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Eden Lake",
+      "lat":45.403279767,
+      "lon":-62.2871706589999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Egypt Road (Inverness)",
+      "lat":46.337957544,
+      "lon":-60.9525325009999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Elderbank",
+      "lat":44.983298701,
+      "lon":-63.2167001609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ellenwood Lake Provincial Park",
+      "lat":43.9273479999999,
+      "lon":-65.997052,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ellershouse",
+      "lat":44.944736295,
+      "lon":-64.0066655049999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Elmsdale",
+      "lat":44.967013978,
+      "lon":-63.5044866389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Elmsvale",
+      "lat":45.085709436,
+      "lon":-63.0714342129999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Elmwood",
+      "lat":44.583301556,
+      "lon":-64.6333007229999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Emerald",
+      "lat":46.322725527,
+      "lon":-61.0448866209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Enfield",
+      "lat":44.951538544,
+      "lon":-63.5326851699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"English Corner",
+      "lat":44.7332996,
+      "lon":-63.7832990749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Englishtown",
+      "lat":46.279740271,
+      "lon":-60.5443800069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Erinville",
+      "lat":45.374430514,
+      "lon":-61.7455457819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Eskasoni",
+      "lat":45.937652836,
+      "lon":-60.6280209269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Estmere",
+      "lat":45.932001234,
+      "lon":-60.9801364459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Eureka",
+      "lat":45.499999684,
+      "lon":-62.6832992689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Evanston",
+      "lat":45.622701878,
+      "lon":-61.2192549269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Falkland Ridge",
+      "lat":44.671881803,
+      "lon":-64.8557994529999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fall River",
+      "lat":44.821058407,
+      "lon":-63.6112628869999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fall River West",
+      "lat":44.801274525,
+      "lon":-63.6328478629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Falls Lake Provincial Park",
+      "lat":44.841978,
+      "lon":-64.240201,
+      "province":"NS"
+   },
+   {
+      "display_name":"Falmouth",
+      "lat":44.995753271,
+      "lon":-64.1630344079999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fancy Lake Provincial Park",
+      "lat":44.328684,
+      "lon":-64.532067,
+      "province":"NS"
+   },
+   {
+      "display_name":"Feltzen South",
+      "lat":44.329453226,
+      "lon":-64.2861120219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fenwick",
+      "lat":45.762531264,
+      "lon":-64.1864303449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fern Hill",
+      "lat":44.821926841,
+      "lon":-62.6329681299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"First South",
+      "lat":44.372203981,
+      "lon":-64.3471797039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fishermans Harbour",
+      "lat":45.111363366,
+      "lon":-61.6864812279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Five Houses (Colchester)",
+      "lat":45.397185401,
+      "lon":-63.7354377499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Five Islands",
+      "lat":45.411273345,
+      "lon":-64.0394317149999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Five Islands Provincial Park",
+      "lat":45.393794,
+      "lon":-64.054239,
+      "province":"NS"
+   },
+   {
+      "display_name":"Five Mile River",
+      "lat":45.221844215,
+      "lon":-63.6071778319999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Florence",
+      "lat":46.259388251,
+      "lon":-60.2608663339999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Folly Lake",
+      "lat":45.549999432,
+      "lon":-63.5499997919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Forest Glen (Yarmouth)",
+      "lat":44.083301506,
+      "lon":-65.9167019079999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Forest Home",
+      "lat":44.93330014,
+      "lon":-64.5167011749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Forks Baddeck",
+      "lat":46.177978927,
+      "lon":-60.7676189179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Forties",
+      "lat":44.731571991,
+      "lon":-64.5645708259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fourchu",
+      "lat":45.716611069,
+      "lon":-60.2605065469999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fox Harbour Provincial Park",
+      "lat":45.835122,
+      "lon":-63.43257,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fox Island Main",
+      "lat":45.34043201,
+      "lon":-61.1033921839999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fox Point",
+      "lat":44.61458644,
+      "lon":-64.0600357409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Fox River",
+      "lat":45.410570757,
+      "lon":-64.5302033059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Framboise",
+      "lat":45.722891558,
+      "lon":-60.3755031579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Frankville",
+      "lat":45.65576699,
+      "lon":-61.5265190489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Freeport",
+      "lat":44.282963145,
+      "lon":-66.3180264209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"French Cove",
+      "lat":45.698715598,
+      "lon":-60.8315952919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"French River (Colchester)",
+      "lat":45.715284055,
+      "lon":-63.3330041339999,
+      "province":"NS"
+   },
+   {
+      "display_name":"French River (Victoria)",
+      "lat":46.490838977,
+      "lon":-60.4403656579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gabarus",
+      "lat":45.838184051,
+      "lon":-60.1403321029999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gaetz Brook",
+      "lat":44.760970075,
+      "lon":-63.2174673629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gaspereau",
+      "lat":45.067711537,
+      "lon":-64.3532352019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gavelton",
+      "lat":43.897558347,
+      "lon":-65.9512359839999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gilberts Cove",
+      "lat":44.485393501,
+      "lon":-65.9414176419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Glace Bay",
+      "lat":46.192901608,
+      "lon":-59.9623887979999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Glen Haven",
+      "lat":44.642699329,
+      "lon":-63.9096999219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Glen Margaret",
+      "lat":44.583301396,
+      "lon":-63.9166981249999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Glen Moir",
+      "lat":44.724220464,
+      "lon":-63.6748831909999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Glendale",
+      "lat":45.812597717,
+      "lon":-61.3169379779999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Glenelg",
+      "lat":45.261220047,
+      "lon":-62.0774226199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Glenville (Inverness)",
+      "lat":46.158132991,
+      "lon":-61.3125261979999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Glenwood Provincial Park",
+      "lat":43.7966739999999,
+      "lon":-65.875512,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gold River",
+      "lat":44.54114789,
+      "lon":-64.3163636489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Goldboro",
+      "lat":45.183300082,
+      "lon":-61.6500017889999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Goldenville",
+      "lat":45.122850713,
+      "lon":-62.0094064779999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gore",
+      "lat":45.121847065,
+      "lon":-63.7151840999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gormanville",
+      "lat":45.255284266,
+      "lon":-63.7528225169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Goshen (Guysborough)",
+      "lat":45.377692716,
+      "lon":-61.9725279959999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grahams Corner",
+      "lat":44.682041671,
+      "lon":-63.5452059999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grand Desert",
+      "lat":44.69021414,
+      "lon":-63.2571652679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grand Étang",
+      "lat":46.546247554,
+      "lon":-61.0487716479999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grand Lake (Halifax)",
+      "lat":44.894376537,
+      "lon":-63.5868435289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grand Mira South",
+      "lat":45.892057359,
+      "lon":-60.2892768099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grand Narrows",
+      "lat":45.955609894,
+      "lon":-60.7903848379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grand Pré",
+      "lat":45.104173864,
+      "lon":-64.3072936969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grand River",
+      "lat":45.645119032,
+      "lon":-60.6617408509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grande Anse",
+      "lat":45.626055193,
+      "lon":-61.0691434049999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grande Greve",
+      "lat":45.631885385,
+      "lon":-60.8431948129999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Granville Centre",
+      "lat":44.783298373,
+      "lon":-65.4499964459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Granville Ferry",
+      "lat":44.755430646,
+      "lon":-65.5251298949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Graves Island Provincial Park",
+      "lat":44.560806,
+      "lon":-64.206167,
+      "province":"NS"
+   },
+   {
+      "display_name":"Great Village",
+      "lat":45.411668014,
+      "lon":-63.5962370519999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Green Acres (Kings)",
+      "lat":45.001790324,
+      "lon":-64.9175182369999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Green Oaks",
+      "lat":45.251344079,
+      "lon":-63.4399782199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Greenfield (Queens)",
+      "lat":44.272900755,
+      "lon":-64.8415647879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Greenhill (Cumberland)",
+      "lat":45.386817288,
+      "lon":-64.2593036329999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Greenhill Provincial Park",
+      "lat":45.582871,
+      "lon":-62.793852,
+      "province":"NS"
+   },
+   {
+      "display_name":"Greenwich",
+      "lat":45.08417005,
+      "lon":-64.3993603379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Greenwold",
+      "lat":45.616786875,
+      "lon":-61.9705338819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Greenwood (Kings)",
+      "lat":44.968348307,
+      "lon":-64.9329522619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Grosses Coques",
+      "lat":44.357676336,
+      "lon":-66.1018843019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Groves Point Provincial Park",
+      "lat":46.2290529999999,
+      "lon":-60.3453339999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gulf Shore Provincial Park",
+      "lat":45.8749809999999,
+      "lon":-63.626673,
+      "province":"NS"
+   },
+   {
+      "display_name":"Gunning Cove",
+      "lat":43.683300474,
+      "lon":-65.3499994819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Guysborough",
+      "lat":45.391732294,
+      "lon":-61.5031251669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Guysborough Intervale",
+      "lat":45.454215764,
+      "lon":-61.6151922379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Habitant",
+      "lat":45.152531785,
+      "lon":-64.3960115699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hacketts Cove",
+      "lat":44.567391484,
+      "lon":-63.9235754739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hadleyville",
+      "lat":45.459869469,
+      "lon":-61.2832518089999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Half Island Cove",
+      "lat":45.346998777,
+      "lon":-61.2000047839999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Halfway Cove",
+      "lat":45.347589827,
+      "lon":-61.3663065049999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Halfway River",
+      "lat":45.520076624,
+      "lon":-64.3465415359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Haliburton",
+      "lat":45.677889129,
+      "lon":-62.7461400669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Halifax",
+      "lat":44.64875616,
+      "lon":-63.6018760669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Halls Harbour",
+      "lat":45.200000908,
+      "lon":-64.6166996239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hammonds Plains Road",
+      "lat":44.725074165,
+      "lon":-63.7420984179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hampton",
+      "lat":44.904793063,
+      "lon":-65.3493292429999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hants Border",
+      "lat":45.071743401,
+      "lon":-64.1906384479999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hantsport",
+      "lat":45.06762367,
+      "lon":-64.1796612259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Harbourview (Inverness)",
+      "lat":45.985981349,
+      "lon":-61.5242759219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Harbourville",
+      "lat":45.150317645,
+      "lon":-64.8043475209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Harpellville",
+      "lat":45.110256899,
+      "lon":-61.7715601449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Harrietsfield",
+      "lat":44.571440358,
+      "lon":-63.6361267989999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Harrigan Cove",
+      "lat":44.92582388,
+      "lon":-62.2986968139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Harrison Settlement",
+      "lat":45.518404202,
+      "lon":-64.3933635039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hartlin Settlement",
+      "lat":44.766700884,
+      "lon":-63.0000002369999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hassett",
+      "lat":44.3499983,
+      "lon":-65.9332953659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Havelock",
+      "lat":44.306536549,
+      "lon":-65.9217083609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Havendale",
+      "lat":45.453099904,
+      "lon":-61.5807488129999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Havre Boucher",
+      "lat":45.680697,
+      "lon":-61.530657,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hazel Hill",
+      "lat":45.324019182,
+      "lon":-61.0310953819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Head of Chezzetcook",
+      "lat":44.742022455,
+      "lon":-63.2495389779999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Head of Jeddore",
+      "lat":44.777295216,
+      "lon":-63.0713258899999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Head of St. Margarets Bay",
+      "lat":44.682871024,
+      "lon":-63.9152661509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Heather Beach",
+      "lat":45.87426023,
+      "lon":-63.7589557489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Heather Beach Provincial Park",
+      "lat":45.874551,
+      "lon":-63.75238,
+      "province":"NS"
+   },
+   {
+      "display_name":"Heatherton",
+      "lat":45.58769144,
+      "lon":-61.7917083279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hebbs Cross",
+      "lat":44.299999298,
+      "lon":-64.5667042819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hebbville",
+      "lat":44.35545106,
+      "lon":-64.5375809609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hebron",
+      "lat":43.888387948,
+      "lon":-66.0913960669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Heckmans Island",
+      "lat":44.38330065,
+      "lon":-64.2500001389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hectanooga",
+      "lat":44.091827844,
+      "lon":-66.0294185419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hemford",
+      "lat":44.506018423,
+      "lon":-64.7928915619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Herring Cove",
+      "lat":44.567010256,
+      "lon":-63.5609428969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hilden",
+      "lat":45.30817189,
+      "lon":-63.2906083319999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hillsburn",
+      "lat":44.799999271,
+      "lon":-65.5667038759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hillside (Pictou)",
+      "lat":45.630513652,
+      "lon":-62.6410166829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hopewell",
+      "lat":45.482810839,
+      "lon":-62.6994943729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Howie Centre",
+      "lat":46.070117928,
+      "lon":-60.2779658519999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hubbards",
+      "lat":44.638515753,
+      "lon":-64.0532170499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hunts Point",
+      "lat":43.954744768,
+      "lon":-64.7777138099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Hureauville",
+      "lat":45.642424078,
+      "lon":-61.2400492559999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Indian Brook",
+      "lat":46.370384474,
+      "lon":-60.5319808799999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Indian Harbour",
+      "lat":44.51670063,
+      "lon":-63.9332997089999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Indian Harbour Lake",
+      "lat":45.134547233,
+      "lon":-61.8822907039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Indian Point",
+      "lat":44.460017742,
+      "lon":-64.3162327789999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Inglisville",
+      "lat":44.858480506,
+      "lon":-65.1115000289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ingomar",
+      "lat":43.561407755,
+      "lon":-65.3562384969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ingonish",
+      "lat":46.692015374,
+      "lon":-60.3731858479999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ingonish Beach",
+      "lat":46.637879862,
+      "lon":-60.4028906609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ingonish Centre",
+      "lat":46.680493483,
+      "lon":-60.4084052199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ingonish Ferry",
+      "lat":46.627992935,
+      "lon":-60.3920636929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Inlet Baddeck",
+      "lat":46.079234777,
+      "lon":-60.8200080709999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Inverness",
+      "lat":46.229331993,
+      "lon":-61.3040654289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Inverside",
+      "lat":46.238967369,
+      "lon":-61.2745901819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Iona",
+      "lat":45.96155563,
+      "lon":-60.8074168719999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Irish Vale",
+      "lat":45.849871681,
+      "lon":-60.6470432759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Iron Mines",
+      "lat":45.93813535,
+      "lon":-61.1485557599999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Isaacs Harbour",
+      "lat":45.183300387,
+      "lon":-61.6666995419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Isaacs Harbour North",
+      "lat":45.202250243,
+      "lon":-61.6755765179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Italy Cross",
+      "lat":44.266700461,
+      "lon":-64.5500023599999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Jacksons Point",
+      "lat":45.997689744,
+      "lon":-64.0376857319999,
+      "province":"NS"
+   },
+   {
+      "display_name":"James River",
+      "lat":45.571701719,
+      "lon":-62.1329174149999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Jamesville",
+      "lat":45.946775047,
+      "lon":-60.8497721359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Janvrin Harbour",
+      "lat":45.530549264,
+      "lon":-61.1794952929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Jersey Cove",
+      "lat":46.310863465,
+      "lon":-60.5468620449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Jimtown",
+      "lat":45.707495232,
+      "lon":-61.8999737449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Joggins",
+      "lat":45.693551562,
+      "lon":-64.4422907499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Jollimore",
+      "lat":44.629874612,
+      "lon":-63.6062631019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Jordan Falls",
+      "lat":43.815531726,
+      "lon":-65.2335956179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Jordantown",
+      "lat":44.588970193,
+      "lon":-65.7757957669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Judds Pool Provincial Park",
+      "lat":45.0200069999999,
+      "lon":-62.210627,
+      "province":"NS"
+   },
+   {
+      "display_name":"Judique",
+      "lat":45.876009937,
+      "lon":-61.4906577409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Judique North",
+      "lat":45.904113456,
+      "lon":-61.4795895399999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Judique South",
+      "lat":45.853382651,
+      "lon":-61.4888406959999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kejimkujik National Park of Canada",
+      "lat":44.386111,
+      "lon":-65.293056,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kempt Shore",
+      "lat":45.128519422,
+      "lon":-64.1912138949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kemptown",
+      "lat":45.469676116,
+      "lon":-63.0733864849999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kemptville",
+      "lat":44.053554123,
+      "lon":-65.8318079909999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kennetcook",
+      "lat":45.176298896,
+      "lon":-63.7218418169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kentville",
+      "lat":45.077707,
+      "lon":-64.495306,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kenzieville",
+      "lat":45.580634423,
+      "lon":-62.3056328759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ketch Harbour",
+      "lat":44.492432957,
+      "lon":-63.5519879809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kingsburg",
+      "lat":44.276346319,
+      "lon":-64.2626422069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kingsport",
+      "lat":45.160650114,
+      "lon":-64.3623084199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kingston",
+      "lat":44.987668803,
+      "lon":-64.9523427909999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kingsville",
+      "lat":45.780455697,
+      "lon":-61.3225971729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Kinsmans Corner",
+      "lat":45.099408712,
+      "lon":-64.6588011679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"La Prairie",
+      "lat":46.638708811,
+      "lon":-60.9701424179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"LaHave",
+      "lat":44.294272768,
+      "lon":-64.3609412849999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake Annis",
+      "lat":44.049999741,
+      "lon":-66.0000010079999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake Charlotte",
+      "lat":44.766265528,
+      "lon":-62.9450746569999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake Doucette",
+      "lat":44.057761076,
+      "lon":-66.1399325119999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake Echo",
+      "lat":44.735922752,
+      "lon":-63.3923411919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake George (Kings)",
+      "lat":44.92262731,
+      "lon":-64.6956891929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake George Provincial Park",
+      "lat":44.924417,
+      "lon":-64.68961,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake Midway Provincial Park",
+      "lat":44.5296669999999,
+      "lon":-66.041054,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake Paul",
+      "lat":44.866959485,
+      "lon":-64.6775491619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake Ramsay",
+      "lat":44.753050052,
+      "lon":-64.5228019019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lakelands (Hants)",
+      "lat":44.922977542,
+      "lon":-63.8909297969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lake-O-Law Provincial Park",
+      "lat":46.2763469999999,
+      "lon":-60.9621269999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lakeside (Halifax)",
+      "lat":44.635860652,
+      "lon":-63.7019155689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lakeville",
+      "lat":45.109051961,
+      "lon":-64.6092041689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lantz",
+      "lat":44.988790873,
+      "lon":-63.4802558719999,
+      "province":"NS"
+   },
+   {
+      "display_name":"L'Ardoise",
+      "lat":45.614504555,
+      "lon":-60.7667879229999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Larrys River",
+      "lat":45.229971323,
+      "lon":-61.3779658809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Latties Brook",
+      "lat":45.236831413,
+      "lon":-63.5705670459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Laurie Provincial Park",
+      "lat":44.884003,
+      "lon":-63.601905,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lawrencetown (Annapolis)",
+      "lat":44.882197,
+      "lon":-65.1586679999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lawrencetown (Halifax)",
+      "lat":44.665863504,
+      "lon":-63.3733160719999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Leitches Creek",
+      "lat":46.168937462,
+      "lon":-60.3108542579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lennox Passage Provincial Park",
+      "lat":45.5925939999999,
+      "lon":-61.021663,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lequille",
+      "lat":44.732647523,
+      "lon":-65.4931737199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Leville",
+      "lat":44.750000341,
+      "lon":-64.4167033769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lewis Lake Provincial Park",
+      "lat":44.68941,
+      "lon":-63.846163,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lincolnville",
+      "lat":45.507180045,
+      "lon":-61.5489814169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Liscomb",
+      "lat":45.021332339,
+      "lon":-62.0004514749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Liscomb Mills",
+      "lat":45.012350494,
+      "lon":-62.1019474259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lismore",
+      "lat":45.700000384,
+      "lon":-62.2667000309999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Litchfield",
+      "lat":44.783298869,
+      "lon":-65.5999996919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Little Anse",
+      "lat":45.492680919,
+      "lon":-60.9296230279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Little Brook",
+      "lat":44.302633129,
+      "lon":-66.1213032659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Little Harbour (Halifax)",
+      "lat":44.710451568,
+      "lon":-62.8399675109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Little Harbour (Richmond)",
+      "lat":45.586187422,
+      "lon":-60.7371617869999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Little Harbour (Shelburne)",
+      "lat":43.716701667,
+      "lon":-65.0333030229999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Little Liscomb",
+      "lat":45.027601574,
+      "lon":-61.9733850879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Little Narrows",
+      "lat":45.990451676,
+      "lon":-60.9817303099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Little River (Digby)",
+      "lat":44.445161611,
+      "lon":-66.1452786259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Little River (Victoria)",
+      "lat":46.442915852,
+      "lon":-60.4665476919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Liverpool",
+      "lat":44.036254819,
+      "lon":-64.7189723729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Livingstone Cove",
+      "lat":45.867341953,
+      "lon":-61.9732776869999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lochaber",
+      "lat":45.415814429,
+      "lon":-62.0231960739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lochaber Mines",
+      "lat":45.005476879,
+      "lon":-62.4758069429999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lochiel Lake Provincial Park",
+      "lat":45.354294,
+      "lon":-62.0586799999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lockeport",
+      "lat":43.694826599,
+      "lon":-65.1117153679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Londonderry",
+      "lat":45.474488358,
+      "lon":-63.6028020689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Long Lake Provincial Park",
+      "lat":44.6047609999999,
+      "lon":-63.6515189999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Long Point",
+      "lat":45.806846941,
+      "lon":-61.4826086879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lorne",
+      "lat":45.426089524,
+      "lon":-62.7076779099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lorneville",
+      "lat":45.987377815,
+      "lon":-63.9402844729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Louis Head",
+      "lat":43.749999964,
+      "lon":-65.0167008299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Louisbourg",
+      "lat":45.920011314,
+      "lon":-59.9748029469999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Louisdale",
+      "lat":45.606494651,
+      "lon":-61.0635959269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Argyle",
+      "lat":43.733298973,
+      "lon":-65.8332973039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Barneys River",
+      "lat":45.667234134,
+      "lon":-62.3472631459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Blomidon",
+      "lat":45.249311842,
+      "lon":-64.3594094679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower East Pubnico",
+      "lat":43.613768394,
+      "lon":-65.7713917019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Economy",
+      "lat":45.401598099,
+      "lon":-63.9875727549999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Five Islands",
+      "lat":45.412704264,
+      "lon":-64.0958660049999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Gulf Shore",
+      "lat":45.873689532,
+      "lon":-63.5555315739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower L'Ardoise",
+      "lat":45.601267181,
+      "lon":-60.7408908389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Meaghers Grant",
+      "lat":44.918981927,
+      "lon":-63.2408491639999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Prospect",
+      "lat":44.453695208,
+      "lon":-63.7257543619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Sackville",
+      "lat":44.762790657,
+      "lon":-63.6671379129999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Saulnierville",
+      "lat":44.23329936,
+      "lon":-66.1333006539999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Selma",
+      "lat":45.313294578,
+      "lon":-63.6049332359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Ship Harbour",
+      "lat":44.783298447,
+      "lon":-62.8333011409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower South River",
+      "lat":45.59999811,
+      "lon":-61.9166978309999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Washabuck",
+      "lat":46.069437503,
+      "lon":-60.7681533969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower West Pubnico",
+      "lat":43.633300574,
+      "lon":-65.8000024069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower West River",
+      "lat":45.611159652,
+      "lon":-62.0121380789999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Whitehead",
+      "lat":45.218617866,
+      "lon":-61.1804530659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lower Woods Harbour",
+      "lat":43.516160566,
+      "lon":-65.7347394229999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lumsden Pond Provincial Park",
+      "lat":45.02457,
+      "lon":-64.39775,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lundy",
+      "lat":45.28219346,
+      "lon":-61.5059168569999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lunenburg",
+      "lat":44.377450773,
+      "lon":-64.3169409679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lydgate",
+      "lat":43.719903819,
+      "lon":-65.1238028819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Lyons Brook",
+      "lat":45.670580169,
+      "lon":-62.7793712069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mabou",
+      "lat":46.072911148,
+      "lon":-61.3920987299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mabou Harbour Mouth",
+      "lat":46.092801503,
+      "lon":-61.4621479739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mabou Provincial Park",
+      "lat":46.0816849999999,
+      "lon":-61.37284,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mabou Station",
+      "lat":46.06756429,
+      "lon":-61.3989405349999,
+      "province":"NS"
+   },
+   {
+      "display_name":"MacAulays Hill",
+      "lat":46.143334324,
+      "lon":-60.6799142909999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Maccan",
+      "lat":45.72698404,
+      "lon":-64.2508363139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"MacElmons Pond Provincial Park",
+      "lat":45.391185,
+      "lon":-63.4274,
+      "province":"NS"
+   },
+   {
+      "display_name":"MacKays Corner",
+      "lat":45.762794591,
+      "lon":-62.8232435699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"MacPherson Lake",
+      "lat":45.435048264,
+      "lon":-61.4315031839999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mahone Bay",
+      "lat":44.448587131,
+      "lon":-64.3804411739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Maitland (Hants)",
+      "lat":45.317402354,
+      "lon":-63.4950733069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Maitland (Lunenburg)",
+      "lat":44.426758158,
+      "lon":-64.4575247029999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Maitland Bridge",
+      "lat":44.439925382,
+      "lon":-65.1935886869999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Malagash",
+      "lat":45.772566532,
+      "lon":-63.3764243449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Malagash Mine",
+      "lat":45.792340787,
+      "lon":-63.3253415769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Malay Falls",
+      "lat":44.987270831,
+      "lon":-62.4823290239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Malignant Cove",
+      "lat":45.784938187,
+      "lon":-62.0857550919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Manassette Lake",
+      "lat":45.434106868,
+      "lon":-61.3333697339999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mapleton",
+      "lat":45.586396309,
+      "lon":-64.1457824809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Marble Hill",
+      "lat":46.040338823,
+      "lon":-61.5438277899999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Marble Mountain",
+      "lat":45.817556432,
+      "lon":-61.0413086019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Margaree",
+      "lat":46.392817105,
+      "lon":-61.0723984139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Margaree Centre",
+      "lat":46.344143981,
+      "lon":-61.0036021609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Margaree Forks",
+      "lat":46.331076852,
+      "lon":-61.0901944339999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Margaree Harbour",
+      "lat":46.448816119,
+      "lon":-61.0963999679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Margaretsville",
+      "lat":45.047081307,
+      "lon":-65.0634165909999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Marie Joseph",
+      "lat":44.969401928,
+      "lon":-62.0852108959999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Marie Joseph Provincial Park",
+      "lat":44.9678529999999,
+      "lon":-62.0848479999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Marion Bridge",
+      "lat":45.981103673,
+      "lon":-60.2117710569999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Marriotts Cove",
+      "lat":44.556378927,
+      "lon":-64.2708136389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Marshalltown",
+      "lat":44.581474219,
+      "lon":-65.8093267349999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Marshville",
+      "lat":45.754075313,
+      "lon":-63.1158048529999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Martinique Beach Provincial Park",
+      "lat":44.692318,
+      "lon":-63.131658,
+      "province":"NS"
+   },
+   {
+      "display_name":"Martins Brook",
+      "lat":44.408403994,
+      "lon":-64.3385326599999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Martins Point",
+      "lat":44.493600347,
+      "lon":-64.3149714109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Martins River",
+      "lat":44.486178164,
+      "lon":-64.3354138109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Maryvale",
+      "lat":45.733804684,
+      "lon":-62.0429659239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Masons Beach",
+      "lat":44.364362739,
+      "lon":-64.3361950059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Masstown",
+      "lat":45.385479473,
+      "lon":-63.4785639579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mattie Settlement",
+      "lat":45.593795634,
+      "lon":-61.5523771359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mavillette",
+      "lat":44.10134975,
+      "lon":-66.1852122169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mavillette Beach Provincial Park",
+      "lat":44.089997,
+      "lon":-66.192778,
+      "province":"NS"
+   },
+   {
+      "display_name":"McGraths Cove",
+      "lat":44.506361937,
+      "lon":-63.8508759419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"McKinnons Harbour",
+      "lat":45.946524627,
+      "lon":-60.9033020809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"McLellans Brook",
+      "lat":45.543869253,
+      "lon":-62.6108924479999,
+      "province":"NS"
+   },
+   {
+      "display_name":"McNabs and Lawlor Islands Provincial Park",
+      "lat":44.6099199999999,
+      "lon":-63.515433,
+      "province":"NS"
+   },
+   {
+      "display_name":"McPhersons Mills",
+      "lat":45.533298697,
+      "lon":-62.5167009999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Meadowville",
+      "lat":45.700000185,
+      "lon":-62.9166970409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Meagher (Queens)",
+      "lat":44.400001312,
+      "lon":-65.0500025539999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Meaghers Grant",
+      "lat":44.93466345,
+      "lon":-63.2377318629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Meat Cove",
+      "lat":47.026461998,
+      "lon":-60.5698162069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Melmerby Beach Provincial Park",
+      "lat":45.657585,
+      "lon":-62.509591,
+      "province":"NS"
+   },
+   {
+      "display_name":"Melrose",
+      "lat":45.261131765,
+      "lon":-62.0471370379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Melvern Square",
+      "lat":44.983299767,
+      "lon":-64.9833001289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Melville (Pictou)",
+      "lat":45.788377421,
+      "lon":-63.0292135769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Merigomish",
+      "lat":45.632709819,
+      "lon":-62.4331102619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Meteghan",
+      "lat":44.185634396,
+      "lon":-66.1612481679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Meteghan Centre",
+      "lat":44.195648926,
+      "lon":-66.1472825849999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Meteghan River",
+      "lat":44.219415117,
+      "lon":-66.1432005299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Meteghan Station",
+      "lat":44.205134519,
+      "lon":-66.0920978419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Micmac (Hants)",
+      "lat":45.093676595,
+      "lon":-63.4904821619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middle Country Harbour",
+      "lat":45.237421999,
+      "lon":-61.7668048009999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middle East Pubnico",
+      "lat":43.650001923,
+      "lon":-65.7667021379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middle Melford",
+      "lat":45.535217399,
+      "lon":-61.3141223869999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middle Musquodoboit",
+      "lat":45.043763373,
+      "lon":-63.1496214809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middle Porters Lake",
+      "lat":44.699784247,
+      "lon":-63.3056955479999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middle River (Victoria)",
+      "lat":46.154268742,
+      "lon":-60.9249964629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middle Sackville",
+      "lat":44.783017497,
+      "lon":-63.6929029709999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middle Stewiacke",
+      "lat":45.223754099,
+      "lon":-63.1374618759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middle West Pubnico",
+      "lat":43.65142862,
+      "lon":-65.8030713419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middleboro",
+      "lat":45.76374687,
+      "lon":-63.5683353029999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middleton (Annapolis)",
+      "lat":44.943142914,
+      "lon":-65.0674966349999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Middlewood",
+      "lat":44.229762148,
+      "lon":-64.5738572359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Midville Branch",
+      "lat":44.423663024,
+      "lon":-64.6369648719999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Milford Station",
+      "lat":45.049999118,
+      "lon":-63.4333000499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mill Cove",
+      "lat":44.589599829,
+      "lon":-64.0645980819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mill Road",
+      "lat":44.783298384,
+      "lon":-64.4499969059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mill Village (Queens)",
+      "lat":44.145171328,
+      "lon":-64.6472333709999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Millbrook",
+      "lat":45.332334457,
+      "lon":-63.2988032349999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Millville (Kings)",
+      "lat":44.995350139,
+      "lon":-64.8166390699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Milton (Queens)",
+      "lat":44.062362609,
+      "lon":-64.7500244749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Milton Highlands",
+      "lat":43.855914064,
+      "lon":-66.1224918119999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Minasville",
+      "lat":45.283298542,
+      "lon":-63.8166999889999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mineville",
+      "lat":44.691576598,
+      "lon":-63.3786793369999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Minudie",
+      "lat":45.774102532,
+      "lon":-64.3520640939999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mira River Provincial Park",
+      "lat":46.029346,
+      "lon":-60.04403,
+      "province":"NS"
+   },
+   {
+      "display_name":"Monastery",
+      "lat":45.612248144,
+      "lon":-61.6151869279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Monks Head",
+      "lat":45.648303673,
+      "lon":-61.8389347099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Moose Harbour",
+      "lat":44.016700878,
+      "lon":-64.6667022519999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Moose River Gold Mines",
+      "lat":44.985471253,
+      "lon":-62.9418270989999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Moose River Gold Mines Provincial Park",
+      "lat":44.9809669999999,
+      "lon":-62.944615,
+      "province":"NS"
+   },
+   {
+      "display_name":"Moosehead",
+      "lat":44.945407458,
+      "lon":-62.2642555979999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mooseland",
+      "lat":44.949917914,
+      "lon":-62.7998226019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Morden",
+      "lat":45.102631677,
+      "lon":-64.9445482259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Morristown (Kings)",
+      "lat":44.985759422,
+      "lon":-64.7675616249999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Moschelle",
+      "lat":44.753924171,
+      "lon":-65.4666926839999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Moser River",
+      "lat":44.974951593,
+      "lon":-62.2541721649999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mosherville",
+      "lat":45.072632261,
+      "lon":-63.9543554999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mossman Corner",
+      "lat":44.444942412,
+      "lon":-64.5844416259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mount Pleasant (Lunenburg)",
+      "lat":44.285689937,
+      "lon":-64.4266021379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mount Pleasant (Queens)",
+      "lat":44.033298682,
+      "lon":-64.6999978279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mount Uniacke",
+      "lat":44.887298878,
+      "lon":-63.8235153509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mulgrave",
+      "lat":45.612105485,
+      "lon":-61.3935805239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Murphy Cove",
+      "lat":44.787144,
+      "lon":-62.7606090009999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Murray Siding",
+      "lat":45.365685,
+      "lon":-63.206801,
+      "province":"NS"
+   },
+   {
+      "display_name":"Mushaboom",
+      "lat":44.850738189,
+      "lon":-62.5336871269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Musquodoboit Harbour",
+      "lat":44.787813145,
+      "lon":-63.1467667209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Musquodoboit Valley Provincial Park",
+      "lat":45.055167,
+      "lon":-63.112243,
+      "province":"NS"
+   },
+   {
+      "display_name":"Myers Point",
+      "lat":44.769793645,
+      "lon":-63.0399356829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Nappan",
+      "lat":45.767027747,
+      "lon":-64.2378077209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Neils Harbour",
+      "lat":46.810780581,
+      "lon":-60.3240762239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Campbellton",
+      "lat":46.290562753,
+      "lon":-60.4292458809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Germany",
+      "lat":44.538593145,
+      "lon":-64.7119548629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Glasgow",
+      "lat":45.587794775,
+      "lon":-62.6421686089999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Harbour (Guysborough)",
+      "lat":45.168601951,
+      "lon":-61.4520255969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Harbour East",
+      "lat":45.204434644,
+      "lon":-61.4882320579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Harbour West",
+      "lat":45.19446975,
+      "lon":-61.4934699209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Haven",
+      "lat":46.824101149,
+      "lon":-60.3210070649999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Minas",
+      "lat":45.067351023,
+      "lon":-64.4570221199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Ross",
+      "lat":44.737591995,
+      "lon":-64.4565815509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Russell",
+      "lat":44.766700666,
+      "lon":-64.4167023699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Salem",
+      "lat":45.422110863,
+      "lon":-64.7908149609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Tusket",
+      "lat":44.284918277,
+      "lon":-65.9045816009999,
+      "province":"NS"
+   },
+   {
+      "display_name":"New Waterford",
+      "lat":46.24729759,
+      "lon":-60.0816703889999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Newcomb Corner",
+      "lat":45.068998671,
+      "lon":-63.0460541889999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Newcombville",
+      "lat":44.380387967,
+      "lon":-64.6222755839999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Newellton",
+      "lat":43.466701838,
+      "lon":-65.6333013299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Newport Corner",
+      "lat":44.965965087,
+      "lon":-63.9770213999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Nictaux",
+      "lat":44.926031727,
+      "lon":-65.0479578309999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Nictaux Falls",
+      "lat":44.909569417,
+      "lon":-65.0316441739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Noel",
+      "lat":45.295737685,
+      "lon":-63.7479860509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Noel Road",
+      "lat":45.204868104,
+      "lon":-63.7380643239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Noel Shore",
+      "lat":45.312566486,
+      "lon":-63.6330986009999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North Alton",
+      "lat":45.050396026,
+      "lon":-64.5242289499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North Brookfield",
+      "lat":44.407707617,
+      "lon":-64.9557705389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North East Harbour",
+      "lat":43.549999119,
+      "lon":-65.3833004569999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North East Margaree",
+      "lat":46.328767444,
+      "lon":-61.0023199459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North East Point",
+      "lat":43.510251416,
+      "lon":-65.6044136729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North Grand Pré",
+      "lat":45.136652248,
+      "lon":-64.3146379409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North Grant",
+      "lat":45.666698038,
+      "lon":-62.0332981329999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North Kemptville",
+      "lat":44.082901266,
+      "lon":-65.8340284689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North Lochaber",
+      "lat":45.447933944,
+      "lon":-62.0099065669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North Noel Road",
+      "lat":45.225071697,
+      "lon":-63.7436683659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North River (Colchester)",
+      "lat":45.425189008,
+      "lon":-63.2546373969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North River (Lunenburg)",
+      "lat":44.616698908,
+      "lon":-64.7666998229999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North River Bridge",
+      "lat":46.30389882,
+      "lon":-60.6297563479999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North Sydney",
+      "lat":46.204422735,
+      "lon":-60.2609541629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"North Wallace",
+      "lat":45.832610403,
+      "lon":-63.4838349089999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Northfield (Hants)",
+      "lat":45.249999744,
+      "lon":-63.6832990669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Northport",
+      "lat":45.932582713,
+      "lon":-63.8676037769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Northport Beach Provincial Park",
+      "lat":45.9262329999999,
+      "lon":-63.844369,
+      "province":"NS"
+   },
+   {
+      "display_name":"Northwest Cove",
+      "lat":44.528897852,
+      "lon":-64.0249407879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Nyanza",
+      "lat":46.09261889,
+      "lon":-60.8896268499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Oakfield Provincial Park",
+      "lat":44.915357,
+      "lon":-63.5873019999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Oakhill",
+      "lat":44.3950419999999,
+      "lon":-64.504788,
+      "province":"NS"
+   },
+   {
+      "display_name":"Oakland",
+      "lat":44.451406515,
+      "lon":-64.3669089679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Old Barns",
+      "lat":45.345336621,
+      "lon":-63.4035874529999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Oliver",
+      "lat":45.653976451,
+      "lon":-63.3154348589999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Orangedale",
+      "lat":45.901032592,
+      "lon":-61.0969363969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ostrea Lake",
+      "lat":44.72074887,
+      "lon":-63.0856642299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Owls Head",
+      "lat":44.733299252,
+      "lon":-62.8333011269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Oxford",
+      "lat":45.734804333,
+      "lon":-63.8670642749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Oyster Pond",
+      "lat":44.786658062,
+      "lon":-63.0053259299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Paradise",
+      "lat":44.869368025,
+      "lon":-65.2175617009999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Parkers Cove",
+      "lat":44.817681257,
+      "lon":-65.5180797989999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Parrsboro",
+      "lat":45.405548,
+      "lon":-64.325945,
+      "province":"NS"
+   },
+   {
+      "display_name":"Peas Brook",
+      "lat":45.350470649,
+      "lon":-61.3142299069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Peggys Cove",
+      "lat":44.492398857,
+      "lon":-63.9155492989999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pembroke (Hants)",
+      "lat":45.218646443,
+      "lon":-64.0652501289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pentz",
+      "lat":44.302453721,
+      "lon":-64.3957853739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Petersfield Provincial Park",
+      "lat":46.146816,
+      "lon":-60.219774,
+      "province":"NS"
+   },
+   {
+      "display_name":"Petit Étang",
+      "lat":46.648374843,
+      "lon":-60.9760896199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Petit-de-Grat",
+      "lat":45.504831652,
+      "lon":-60.9548395979999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Petite Rivière",
+      "lat":44.233457,
+      "lon":-64.447088,
+      "province":"NS"
+   },
+   {
+      "display_name":"Philips Harbour",
+      "lat":45.347227739,
+      "lon":-61.2393431269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Phinneys Cove",
+      "lat":44.885442327,
+      "lon":-65.3952492159999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pictou",
+      "lat":45.680317383,
+      "lon":-62.7054849519999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pictou Island",
+      "lat":45.804874951,
+      "lon":-62.5563505929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pictou Landing",
+      "lat":45.668077994,
+      "lon":-62.6868336359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pinehurst",
+      "lat":44.500000208,
+      "lon":-64.6500015659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pinkneys Point",
+      "lat":43.716981199,
+      "lon":-66.0646849509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pirate Harbour",
+      "lat":45.583544947,
+      "lon":-61.3866882109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Plaster Provincial Park",
+      "lat":46.4145059999999,
+      "lon":-60.475246,
+      "province":"NS"
+   },
+   {
+      "display_name":"Plateau",
+      "lat":46.592872538,
+      "lon":-61.0072891269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pleasant Bay",
+      "lat":46.82754595,
+      "lon":-60.8011225959999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pleasant Harbour",
+      "lat":44.789686792,
+      "lon":-62.7195024019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pleasant Hill",
+      "lat":45.643872188,
+      "lon":-61.3650889549999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pleasant Point (Halifax)",
+      "lat":44.690076283,
+      "lon":-63.0680518529999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pleasant River",
+      "lat":44.438981081,
+      "lon":-64.8818408669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pleasantville",
+      "lat":44.339769807,
+      "lon":-64.4422520379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Plymouth (Yarmouth)",
+      "lat":43.801067253,
+      "lon":-66.0151867429999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Plympton",
+      "lat":44.504615676,
+      "lon":-65.9171026299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Poirierville",
+      "lat":45.578732763,
+      "lon":-60.9265968219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pomquet",
+      "lat":45.630072827,
+      "lon":-61.8487548259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ponds",
+      "lat":45.68329985,
+      "lon":-62.2999988299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pondville",
+      "lat":45.541113601,
+      "lon":-60.9911001739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pondville Beach Provincial Park",
+      "lat":45.5382669999999,
+      "lon":-60.977734,
+      "province":"NS"
+   },
+   {
+      "display_name":"Popes Harbour",
+      "lat":44.811991317,
+      "lon":-62.6392633999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Bickerton",
+      "lat":45.10705785,
+      "lon":-61.7238321569999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Clyde",
+      "lat":43.599998216,
+      "lon":-65.4666973879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Dufferin",
+      "lat":44.916698999,
+      "lon":-62.3833020579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Dufferin West",
+      "lat":44.903415739,
+      "lon":-62.4032512219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Felix",
+      "lat":45.250000357,
+      "lon":-61.2167023829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port George",
+      "lat":45.004003837,
+      "lon":-65.1575788709999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Greville",
+      "lat":45.408602916,
+      "lon":-64.5441910919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Hastings",
+      "lat":45.649813334,
+      "lon":-61.4040969119999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Hawkesbury",
+      "lat":45.618477026,
+      "lon":-61.3601313969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Hilford",
+      "lat":45.107816295,
+      "lon":-61.8474312459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Hood",
+      "lat":46.017663184,
+      "lon":-61.5298452509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Hood Station Provincial Park",
+      "lat":46.0018719999999,
+      "lon":-61.5330529999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Howe",
+      "lat":45.855452322,
+      "lon":-63.7496112609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Joli",
+      "lat":43.880503144,
+      "lon":-64.9061617249999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port La Tour",
+      "lat":43.499998181,
+      "lon":-65.4772640119999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Lorne",
+      "lat":44.946593074,
+      "lon":-65.2647580279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Maitland",
+      "lat":43.987152609,
+      "lon":-66.1486030109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Maitland Beach Provincial Park",
+      "lat":43.987231,
+      "lon":-66.152411,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Medway",
+      "lat":44.125543358,
+      "lon":-64.5764046549999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Morien",
+      "lat":46.133524075,
+      "lon":-59.8739557799999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Mouton",
+      "lat":43.926835911,
+      "lon":-64.8476048499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Philip",
+      "lat":45.845693018,
+      "lon":-63.7298331969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Royal (Annapolis)",
+      "lat":44.717619377,
+      "lon":-65.6025829079999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Royal (Richmond)",
+      "lat":45.53366919,
+      "lon":-61.0825200429999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Shoreham",
+      "lat":45.42317712,
+      "lon":-61.4249450309999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Wade",
+      "lat":44.68330004,
+      "lon":-65.7166979949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Wallace",
+      "lat":44.702215367,
+      "lon":-63.5458606899999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Port Williams",
+      "lat":45.097874984,
+      "lon":-64.4096358479999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Portapique",
+      "lat":45.402414832,
+      "lon":-63.7015935739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Porter",
+      "lat":44.746448307,
+      "lon":-63.2967466859999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Porters Lake",
+      "lat":44.737171826,
+      "lon":-63.3100420979999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Porter's Lake Provincial Park",
+      "lat":44.6878529999999,
+      "lon":-63.3015599999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Portree",
+      "lat":46.401273792,
+      "lon":-60.9653810359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Portuguese Cove",
+      "lat":44.520209929,
+      "lon":-63.5326707609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Poulamon",
+      "lat":45.580895145,
+      "lon":-60.9910104639999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Powells Point Provincial Park",
+      "lat":45.653117,
+      "lon":-62.5593899999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Priestville",
+      "lat":45.571715312,
+      "lon":-62.6243742859999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Prospect (Halifax)",
+      "lat":44.469224574,
+      "lon":-63.7883895079999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pubnico",
+      "lat":43.700001328,
+      "lon":-65.7833035889999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Pugwash",
+      "lat":45.850485587,
+      "lon":-63.6622343419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Purlbrook",
+      "lat":45.566699764,
+      "lon":-62.0332976119999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Queensland Beach Provincial Park",
+      "lat":44.636874,
+      "lon":-64.028373,
+      "province":"NS"
+   },
+   {
+      "display_name":"Queensport",
+      "lat":45.337371472,
+      "lon":-61.2652321419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Quinan",
+      "lat":43.918817351,
+      "lon":-65.8270324149999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rawdon Gold Mines",
+      "lat":45.054714643,
+      "lon":-63.7638866389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Red Islands",
+      "lat":45.779044566,
+      "lon":-60.7426099619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Red River (Inverness)",
+      "lat":46.845341451,
+      "lon":-60.7744081149999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Reserve Mines",
+      "lat":46.183228788,
+      "lon":-60.0120829689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rhodes Corner",
+      "lat":44.377852925,
+      "lon":-64.4150989419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Richfield",
+      "lat":44.118631352,
+      "lon":-65.9291442619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rissers Beach Provincial Park",
+      "lat":44.2309129999999,
+      "lon":-64.429857,
+      "province":"NS"
+   },
+   {
+      "display_name":"River Bennet",
+      "lat":46.333290682,
+      "lon":-60.5357504629999,
+      "province":"NS"
+   },
+   {
+      "display_name":"River Bourgeois",
+      "lat":45.638419456,
+      "lon":-60.9473411999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"River Denys",
+      "lat":45.82955053,
+      "lon":-61.1785538159999,
+      "province":"NS"
+   },
+   {
+      "display_name":"River Hebert",
+      "lat":45.692314058,
+      "lon":-64.3790645179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"River Hebert East",
+      "lat":45.700797134,
+      "lon":-64.3595992449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"River John",
+      "lat":45.752334837,
+      "lon":-63.0695456329999,
+      "province":"NS"
+   },
+   {
+      "display_name":"River Tillard",
+      "lat":45.6512771,
+      "lon":-60.9162607659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Riverport",
+      "lat":44.298796541,
+      "lon":-64.3298786929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Riverton",
+      "lat":45.526751265,
+      "lon":-62.6740432509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Roachvale",
+      "lat":45.349998058,
+      "lon":-61.5499985949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rock Elm",
+      "lat":45.930650294,
+      "lon":-60.3343054659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rockdale",
+      "lat":45.616624551,
+      "lon":-60.8097418809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rockingham",
+      "lat":44.680074586,
+      "lon":-63.6594745659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rocklin",
+      "lat":45.497634151,
+      "lon":-62.7831847819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rockville",
+      "lat":43.775304206,
+      "lon":-66.1151206459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rose Bay",
+      "lat":44.299263813,
+      "lon":-64.3041144939999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Roseway",
+      "lat":43.63182751,
+      "lon":-65.3459673609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ross Ferry",
+      "lat":46.143497999,
+      "lon":-60.5817053679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rossway",
+      "lat":44.580228954,
+      "lon":-65.9152392109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Round Hill",
+      "lat":44.769653991,
+      "lon":-65.4082587699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Roxville",
+      "lat":44.609488739,
+      "lon":-65.8682122659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Rushton Beach Provincial Park",
+      "lat":45.756519,
+      "lon":-63.122628,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sable River",
+      "lat":43.840284248,
+      "lon":-65.0594404409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sable River Provincial Park",
+      "lat":43.831251,
+      "lon":-65.075254,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sackville Lakes Provincial Park",
+      "lat":44.7791666999999,
+      "lon":-63.6569444,
+      "province":"NS"
+   },
+   {
+      "display_name":"Salmon River (Digby)",
+      "lat":44.052322771,
+      "lon":-66.1597085109999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Salmon River Bridge",
+      "lat":44.779189486,
+      "lon":-63.0287908989999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Salmon River Lake",
+      "lat":45.358646754,
+      "lon":-61.7223139239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Salsman Provincial Park",
+      "lat":45.236199,
+      "lon":-61.7702369999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Salt Springs (Antigonish)",
+      "lat":45.590348418,
+      "lon":-62.0018832649999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Salt Springs (Pictou)",
+      "lat":45.536989128,
+      "lon":-62.8957142719999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Salt Springs Provincial Park",
+      "lat":45.545566,
+      "lon":-62.873427,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sambro",
+      "lat":44.474754541,
+      "lon":-63.6034015299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sambro Head",
+      "lat":44.483299792,
+      "lon":-63.5833027129999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sampsonville",
+      "lat":45.681828761,
+      "lon":-60.8489054679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sand Hills Beach Provincial Park",
+      "lat":43.529673,
+      "lon":-65.555251,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sand Point (Guysborough)",
+      "lat":45.51790553,
+      "lon":-61.2560586689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sand River",
+      "lat":45.538251582,
+      "lon":-64.6783774489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sandford",
+      "lat":43.920208459,
+      "lon":-66.1476342539999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sandy Cove (Digby)",
+      "lat":44.491725643,
+      "lon":-66.0891366949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sandy Point",
+      "lat":43.710782248,
+      "lon":-65.3192714219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Saulnierville",
+      "lat":44.264198845,
+      "lon":-66.1299850369999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Saulnierville Station",
+      "lat":44.250000325,
+      "lon":-66.0999990359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Savary Provincial Park",
+      "lat":44.5127459999999,
+      "lon":-65.907262,
+      "province":"NS"
+   },
+   {
+      "display_name":"Scotch Village",
+      "lat":45.056929945,
+      "lon":-64.0008525439999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Scots Bay",
+      "lat":45.306332083,
+      "lon":-64.3981575859999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Scotsburn",
+      "lat":45.651528737,
+      "lon":-62.8539334889999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Scotsville",
+      "lat":46.189025649,
+      "lon":-61.1540589499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Seabright",
+      "lat":44.610604181,
+      "lon":-63.9251810269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Seabrook",
+      "lat":44.610253351,
+      "lon":-65.8089444049999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Seafoam",
+      "lat":45.784356524,
+      "lon":-62.9724916099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Seaforth",
+      "lat":44.671804911,
+      "lon":-63.2564227689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Seagrove",
+      "lat":45.995496237,
+      "lon":-63.9848566199999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Seal Harbour",
+      "lat":45.150001657,
+      "lon":-61.5833018149999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Second Peninsula Provincial Park",
+      "lat":44.404615,
+      "lon":-64.296218,
+      "province":"NS"
+   },
+   {
+      "display_name":"Selma",
+      "lat":45.32100745,
+      "lon":-63.5398737919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Shad Bay",
+      "lat":44.524681243,
+      "lon":-63.7857687409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Shag Harbour",
+      "lat":43.498533091,
+      "lon":-65.7029688419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sheet Harbour",
+      "lat":44.921012159,
+      "lon":-62.5334656539999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sheet Harbour Passage",
+      "lat":44.858738615,
+      "lon":-62.4424190879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sheet Harbour Road",
+      "lat":45.122067729,
+      "lon":-62.9008824419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sheffield Mills",
+      "lat":45.15030382,
+      "lon":-64.4756663489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Shelburne",
+      "lat":43.762136692,
+      "lon":-65.3167604969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sherbrooke",
+      "lat":45.14292556,
+      "lon":-61.9825459169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Shinimicas Provincial Park",
+      "lat":45.8703529999999,
+      "lon":-63.908799,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ship Harbour",
+      "lat":44.816699709,
+      "lon":-62.8833000269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Shubenacadie",
+      "lat":45.087366357,
+      "lon":-63.4067590759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Shulie",
+      "lat":45.599998768,
+      "lon":-64.5667041969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sluice Point",
+      "lat":43.791379459,
+      "lon":-65.9667772099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Smileys Provincial Park",
+      "lat":45.013937,
+      "lon":-63.963282,
+      "province":"NS"
+   },
+   {
+      "display_name":"Smiths Corner",
+      "lat":44.847148883,
+      "lon":-64.2236309239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Smiths Cove",
+      "lat":44.608972218,
+      "lon":-65.7125402769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Smiths Cove Look Off Provincial Park",
+      "lat":44.6134869999999,
+      "lon":-65.690508,
+      "province":"NS"
+   },
+   {
+      "display_name":"Smugglers Cove Provincial Park",
+      "lat":44.169981,
+      "lon":-66.183379,
+      "province":"NS"
+   },
+   {
+      "display_name":"Soapstone Mine",
+      "lat":45.985677693,
+      "lon":-61.1834382879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sober Island",
+      "lat":44.848611111,
+      "lon":-62.4652777779999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Soldiers Cove",
+      "lat":45.695631785,
+      "lon":-60.7355963479999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Somerset (Kings)",
+      "lat":45.073367884,
+      "lon":-64.7498878249999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sonora",
+      "lat":45.057209723,
+      "lon":-61.8959978959999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Alton",
+      "lat":45.017360647,
+      "lon":-64.5361685799999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Branch",
+      "lat":45.168386302,
+      "lon":-63.0864821489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Brookfield",
+      "lat":44.383301138,
+      "lon":-64.9666984869999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South East Passage",
+      "lat":44.601064411,
+      "lon":-63.4679447359999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Farmington",
+      "lat":44.96148711,
+      "lon":-64.9982936209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Greenwood",
+      "lat":44.972504537,
+      "lon":-64.8789741349999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Harbour",
+      "lat":46.869107386,
+      "lon":-60.4638423449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Lake Ainslie",
+      "lat":46.039869843,
+      "lon":-61.1196083639999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Lochaber",
+      "lat":45.382979772,
+      "lon":-62.0444163739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Maitland",
+      "lat":45.252402692,
+      "lon":-63.4706238489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Ohio",
+      "lat":43.922475064,
+      "lon":-66.0646004589999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Pugwash",
+      "lat":45.833300882,
+      "lon":-63.6332995389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Quinan",
+      "lat":43.918617869,
+      "lon":-65.8004983789999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Shore",
+      "lat":45.768409531,
+      "lon":-63.3237613709999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South Side",
+      "lat":43.442093217,
+      "lon":-65.6003844029999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South West Margaree",
+      "lat":46.280908508,
+      "lon":-61.1405930549999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South West Margaree Provincial Park",
+      "lat":46.2836159999999,
+      "lon":-61.1672619999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"South West Port Mouton",
+      "lat":43.896544624,
+      "lon":-64.8114771449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Southampton",
+      "lat":45.590152878,
+      "lon":-64.2505575039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Southwest Mabou",
+      "lat":46.024784948,
+      "lon":-61.4501337569999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Spanish Ship Bay",
+      "lat":45.029692255,
+      "lon":-62.0321107189999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Spencers Island",
+      "lat":45.356961783,
+      "lon":-64.7126028929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Springfield (Annapolis)",
+      "lat":44.630221808,
+      "lon":-64.8606823239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Springhaven",
+      "lat":43.901377765,
+      "lon":-65.8717816949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Springhill",
+      "lat":45.651052836,
+      "lon":-64.0565983189999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Springside",
+      "lat":45.281016483,
+      "lon":-62.8900882419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Springville",
+      "lat":45.453496271,
+      "lon":-62.6232637699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Spry Bay",
+      "lat":44.83793665,
+      "lon":-62.5878041699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Spry Harbour",
+      "lat":44.833467807,
+      "lon":-62.6272404809999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Spryfield",
+      "lat":44.616698745,
+      "lon":-63.6166983209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Squid Cove",
+      "lat":44.583301312,
+      "lon":-64.1999966649999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Alphonse",
+      "lat":44.134189595,
+      "lon":-66.1742077849999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Andrews",
+      "lat":45.555445334,
+      "lon":-61.8883178979999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Andrews Channel",
+      "lat":45.930149901,
+      "lon":-60.5150123129999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Anns",
+      "lat":46.213049009,
+      "lon":-60.6063500929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Anns Provincial Park",
+      "lat":46.207185,
+      "lon":-60.623003,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Bernard",
+      "lat":44.403923054,
+      "lon":-66.0375317699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Catherines River",
+      "lat":43.852734656,
+      "lon":-64.8549606409999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Croix",
+      "lat":44.9626064,
+      "lon":-64.0308000659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Francis Harbour",
+      "lat":45.448656804,
+      "lon":-61.3115474559999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Georges Channel",
+      "lat":45.720638724,
+      "lon":-61.0439006489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Joseph (Antigonish)",
+      "lat":45.539824408,
+      "lon":-62.0780148069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Joseph du Moine",
+      "lat":46.532240925,
+      "lon":-61.0600168459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Margaret Village",
+      "lat":46.989202923,
+      "lon":-60.4745082989999,
+      "province":"NS"
+   },
+   {
+      "display_name":"St. Peter's",
+      "lat":45.657751898,
+      "lon":-60.8757152399999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Stanley (Hants)",
+      "lat":45.088337872,
+      "lon":-63.9234604449999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ste. Anne du Ruisseau",
+      "lat":43.83719569,
+      "lon":-65.9284285789999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Steam Mill",
+      "lat":45.109622,
+      "lon":-64.514166,
+      "province":"NS"
+   },
+   {
+      "display_name":"Steep Creek",
+      "lat":45.554151911,
+      "lon":-61.3439319259999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Stellarton",
+      "lat":45.556695424,
+      "lon":-62.6636988539999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Stewiacke",
+      "lat":45.137957909,
+      "lon":-63.3485741759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Stillwater Lake",
+      "lat":44.70085459,
+      "lon":-63.8383722029999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Stirling Brook",
+      "lat":45.312333329,
+      "lon":-63.5619959389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Stoney Island",
+      "lat":43.467197924,
+      "lon":-65.5694416369999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Summerville (Hants)",
+      "lat":45.099998754,
+      "lon":-64.1667027169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Summerville Beach Provincial Park",
+      "lat":43.950107,
+      "lon":-64.821395,
+      "province":"NS"
+   },
+   {
+      "display_name":"Summerville Centre",
+      "lat":43.955362329,
+      "lon":-64.8083951889999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sundridge",
+      "lat":45.710120114,
+      "lon":-62.8492225329999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sunny Brae",
+      "lat":45.401240808,
+      "lon":-62.5031384049999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sunnybrook",
+      "lat":44.412911521,
+      "lon":-64.3363432559999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sunnyville",
+      "lat":45.388172789,
+      "lon":-61.5355269029999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sutherlands River",
+      "lat":45.588752566,
+      "lon":-62.5018783179999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sydney",
+      "lat":46.126469195,
+      "lon":-60.1766895169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sydney Mines",
+      "lat":46.238823011,
+      "lon":-60.2264740589999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Sydney River",
+      "lat":46.097443197,
+      "lon":-60.2264664139999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tancook Island",
+      "lat":44.466701428,
+      "lon":-64.1667023279999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tangier",
+      "lat":44.801573437,
+      "lon":-62.6989847999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tarbot",
+      "lat":46.336687265,
+      "lon":-60.5952722929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tatamagouche",
+      "lat":45.709407362,
+      "lon":-63.2944964099999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tatamagouche Provincial Park",
+      "lat":45.7069999999999,
+      "lon":-63.2687619999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Taylor Head Provincial Park",
+      "lat":44.81859,
+      "lon":-62.5629639999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Ten Mile Lake Provincial Park",
+      "lat":44.1894979999999,
+      "lon":-64.833571,
+      "province":"NS"
+   },
+   {
+      "display_name":"Terence Bay",
+      "lat":44.466830793,
+      "lon":-63.7169881659999,
+      "province":"NS"
+   },
+   {
+      "display_name":"The Falls",
+      "lat":45.640329954,
+      "lon":-63.2222770469999,
+      "province":"NS"
+   },
+   {
+      "display_name":"The Hawk",
+      "lat":43.416109478,
+      "lon":-65.6191070459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"The Islands Provincial Park",
+      "lat":43.7649309999999,
+      "lon":-65.335017,
+      "province":"NS"
+   },
+   {
+      "display_name":"The Points West Bay",
+      "lat":45.754993246,
+      "lon":-60.9783403289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Thomas Raddall Provincial Park",
+      "lat":43.8392,
+      "lon":-64.8966,
+      "province":"NS"
+   },
+   {
+      "display_name":"Thorburn",
+      "lat":45.566700293,
+      "lon":-62.5499995609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Three Brooks",
+      "lat":45.719249772,
+      "lon":-62.7862628879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Three Fathom Harbour",
+      "lat":44.6547392,
+      "lon":-63.2915856919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Three Mile Plains",
+      "lat":44.96426968,
+      "lon":-64.0969579909999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tidnish Bridge",
+      "lat":45.978761468,
+      "lon":-64.0440597149999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tidnish Cross Roads",
+      "lat":45.989030194,
+      "lon":-64.0086755289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tidnish Dock Provincial Park",
+      "lat":45.9973129999999,
+      "lon":-64.007879,
+      "province":"NS"
+   },
+   {
+      "display_name":"Timberlea",
+      "lat":44.66419609,
+      "lon":-63.7518166919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tiverton",
+      "lat":44.390891781,
+      "lon":-66.2165304489999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Toney River",
+      "lat":45.770925042,
+      "lon":-62.8919408269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tor Bay",
+      "lat":45.198845705,
+      "lon":-61.3639032909999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tracadie",
+      "lat":45.623268972,
+      "lon":-61.6691824879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Trafalgar",
+      "lat":45.284223367,
+      "lon":-62.6690498549999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tremont",
+      "lat":44.951836031,
+      "lon":-64.9329046089999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Trenton",
+      "lat":45.616730015,
+      "lon":-62.6326728999999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Troy",
+      "lat":45.685140193,
+      "lon":-61.4382780969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Truemanville",
+      "lat":45.856105124,
+      "lon":-64.0739876169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Truro",
+      "lat":45.363378177,
+      "lon":-63.2762929579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Truro Heights",
+      "lat":45.355279012,
+      "lon":-63.3171005679999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tupperville",
+      "lat":44.799999467,
+      "lon":-65.3666998529999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Tusket",
+      "lat":43.853975097,
+      "lon":-65.9738772779999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Union Square",
+      "lat":44.551152854,
+      "lon":-64.6413225829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Blandford",
+      "lat":44.516700688,
+      "lon":-64.1166986169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Canard",
+      "lat":45.125847104,
+      "lon":-64.4684477649999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Clements",
+      "lat":44.696777428,
+      "lon":-65.5828615459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Clements Provincial Park",
+      "lat":44.701375,
+      "lon":-65.566436,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Gulf Shore",
+      "lat":45.877216682,
+      "lon":-63.6165374729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Kennetcook",
+      "lat":45.200001144,
+      "lon":-63.6500020549999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper LaHave",
+      "lat":44.367110507,
+      "lon":-64.4446898059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Lakeville",
+      "lat":44.789285856,
+      "lon":-62.9704937589999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Lawrencetown",
+      "lat":44.68204006,
+      "lon":-63.4522310599999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Margaree",
+      "lat":46.21838492,
+      "lon":-61.1336783299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Musquodoboit",
+      "lat":45.134083864,
+      "lon":-62.9469198379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper New Harbour",
+      "lat":45.220461826,
+      "lon":-61.5204817499999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Nine Mile River",
+      "lat":45.079967773,
+      "lon":-63.6288647759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Port La Tour",
+      "lat":43.513185693,
+      "lon":-65.4671040559999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Rawdon",
+      "lat":45.067147708,
+      "lon":-63.7125614829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Sackville",
+      "lat":44.799558912,
+      "lon":-63.7277517979999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper South River",
+      "lat":45.466701518,
+      "lon":-61.9333003739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Stewiacke",
+      "lat":45.223444404,
+      "lon":-62.9928215059999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Tantallon",
+      "lat":44.689042808,
+      "lon":-63.8862051509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper West Pubnico",
+      "lat":43.68059135,
+      "lon":-65.7933572529999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Whitehead",
+      "lat":45.281473528,
+      "lon":-61.1706213949999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Upper Woods Harbour",
+      "lat":43.583301791,
+      "lon":-65.7500002859999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Valley",
+      "lat":45.381581966,
+      "lon":-63.1947868609999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Valleyview Provincial Park",
+      "lat":44.8714349999999,
+      "lon":-65.312464,
+      "province":"NS"
+   },
+   {
+      "display_name":"Vaughan",
+      "lat":44.81669969,
+      "lon":-64.2332985579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Victoria Beach",
+      "lat":44.676485846,
+      "lon":-65.7525346559999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Virginia East",
+      "lat":44.632227226,
+      "lon":-65.5061712879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Voglers Cove",
+      "lat":44.157484484,
+      "lon":-64.5348209969999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wallace",
+      "lat":45.812571007,
+      "lon":-63.4727796349999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wallace Bridge",
+      "lat":45.81267774,
+      "lon":-63.5145736699999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Walton",
+      "lat":45.229555559,
+      "lon":-64.0019390759999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Waterside",
+      "lat":45.755335208,
+      "lon":-62.7762844399999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Waterside Beach Provincial Park",
+      "lat":45.7612159999999,
+      "lon":-62.775795,
+      "province":"NS"
+   },
+   {
+      "display_name":"Waterville",
+      "lat":45.054070291,
+      "lon":-64.6723521389999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Watt Section",
+      "lat":44.900001231,
+      "lon":-62.4832986329999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Waverley",
+      "lat":44.783842263,
+      "lon":-63.6011931119999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Weaver Settlement",
+      "lat":44.38330069,
+      "lon":-65.9666970749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wedgeport",
+      "lat":43.739224394,
+      "lon":-65.9796546849999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wellington Station",
+      "lat":44.858270907,
+      "lon":-63.6164492169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Welsford (Pictou)",
+      "lat":45.728899376,
+      "lon":-63.0563204129999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Welton Landing",
+      "lat":44.991279578,
+      "lon":-64.5302527019999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wentworth",
+      "lat":45.650001879,
+      "lon":-63.5499999219999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wentworth Provincial Park",
+      "lat":45.627238,
+      "lon":-63.567333,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wentworth Valley",
+      "lat":45.617459225,
+      "lon":-63.5582032579999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wentzells Lake Provincial Park",
+      "lat":44.4654209999999,
+      "lon":-64.621632,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Advocate",
+      "lat":45.349998285,
+      "lon":-64.8167034779999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Arichat",
+      "lat":45.514743891,
+      "lon":-61.0812785619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Baccaro",
+      "lat":43.46215368,
+      "lon":-65.4884754769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Bay (Richmond)",
+      "lat":45.709203481,
+      "lon":-61.1722734429999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Bay Road",
+      "lat":45.730743828,
+      "lon":-61.2540857039999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Branch",
+      "lat":45.639555799,
+      "lon":-63.0422972459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Chezzetcook",
+      "lat":44.716185655,
+      "lon":-63.2665195239999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Dover",
+      "lat":44.4907273,
+      "lon":-63.8716939929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Dublin",
+      "lat":44.249999498,
+      "lon":-64.4000000739999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Gore",
+      "lat":45.093612974,
+      "lon":-63.7794300249999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Havre Boucher",
+      "lat":45.66194666,
+      "lon":-61.5539321379999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Jeddore",
+      "lat":44.715032785,
+      "lon":-63.0099698269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Liscomb",
+      "lat":44.996715902,
+      "lon":-62.0973968309999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Lochaber",
+      "lat":45.413344832,
+      "lon":-62.0360129419999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Mabou",
+      "lat":46.076173801,
+      "lon":-61.4693222929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Mabou Beach Provincial Park",
+      "lat":46.0770019999999,
+      "lon":-61.473645,
+      "province":"NS"
+   },
+   {
+      "display_name":"West New Annan",
+      "lat":45.639200347,
+      "lon":-63.3621350519999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Paradise",
+      "lat":44.854095044,
+      "lon":-65.2226237709999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Pubnico",
+      "lat":43.667219293,
+      "lon":-65.7996466669999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Quoddy",
+      "lat":44.916698824,
+      "lon":-62.3499994069999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West River",
+      "lat":45.583301229,
+      "lon":-62.0332975729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Sheet Harbour",
+      "lat":44.912145564,
+      "lon":-62.5418628729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"West Wentworth",
+      "lat":45.685891907,
+      "lon":-63.6031878509999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Westchester Station",
+      "lat":45.620635091,
+      "lon":-63.6587494209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Western Shore",
+      "lat":44.522730614,
+      "lon":-64.3072074879999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Westmount",
+      "lat":46.137946946,
+      "lon":-60.2185529849999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Weston",
+      "lat":45.058425559,
+      "lon":-64.7925182929999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Westport",
+      "lat":44.262451302,
+      "lon":-66.3543025729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Westville",
+      "lat":45.557610065,
+      "lon":-62.7114775299999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Weymouth",
+      "lat":44.418669641,
+      "lon":-66.0014784169999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Weymouth Falls",
+      "lat":44.401422075,
+      "lon":-65.9572716779999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Weymouth North",
+      "lat":44.437845548,
+      "lon":-65.9962312459999,
+      "province":"NS"
+   },
+   {
+      "display_name":"White Point (Queens)",
+      "lat":43.962252058,
+      "lon":-64.7452580339999,
+      "province":"NS"
+   },
+   {
+      "display_name":"White Rock",
+      "lat":45.051145022,
+      "lon":-64.4130372819999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Whitehead",
+      "lat":45.24059508,
+      "lon":-61.1891347769999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Whites Lake",
+      "lat":44.528417685,
+      "lon":-63.7605120269999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Whiteside",
+      "lat":45.606207761,
+      "lon":-61.1954536369999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Whycocomagh",
+      "lat":45.974325911,
+      "lon":-61.1271798589999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Whycocomagh Provincial Park",
+      "lat":45.9680199999999,
+      "lon":-61.101332,
+      "province":"NS"
+   },
+   {
+      "display_name":"Whycocomagh Reserve",
+      "lat":45.967108809,
+      "lon":-61.1364867729999,
+      "province":"NS"
+   },
+   {
+      "display_name":"William E. DeGarthe Memorial Provincial Park",
+      "lat":44.49404,
+      "lon":-63.914196,
+      "province":"NS"
+   },
+   {
+      "display_name":"Williamswood",
+      "lat":44.51753853,
+      "lon":-63.6407295619999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Windsor",
+      "lat":44.99287,
+      "lon":-64.135677,
+      "province":"NS"
+   },
+   {
+      "display_name":"Windsor Forks",
+      "lat":44.941047106,
+      "lon":-64.1878011689999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Windsor Junction",
+      "lat":44.783299015,
+      "lon":-63.6333022209999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Windsor Road",
+      "lat":44.609550883,
+      "lon":-64.2719491889999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wine Harbour",
+      "lat":45.074471124,
+      "lon":-61.8425435749999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wolfville",
+      "lat":45.087031737,
+      "lon":-64.3559019919999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Woodside (Halifax)",
+      "lat":44.653821117,
+      "lon":-63.5454734829999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Wreck Cove",
+      "lat":46.548991085,
+      "lon":-60.4107805289999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Yankeetown",
+      "lat":44.722677035,
+      "lon":-63.8206490529999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Yarmouth",
+      "lat":43.835670221,
+      "lon":-66.1200484249999,
+      "province":"NS"
+   },
+   {
+      "display_name":"Youngs Cove",
+      "lat":44.866699157,
+      "lon":-65.4332958789999,
+      "province":"NS"
+   }
+]

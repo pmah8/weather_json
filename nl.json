@@ -1,0 +1,4088 @@
+[
+   {
+      "display_name":"Abrahams Cove",
+      "lat":48.527658195,
+      "lon":-58.9207023899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Adams Cove",
+      "lat":47.861779904,
+      "lon":-53.0872166979999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Adeytown",
+      "lat":48.07460727,
+      "lon":-53.9375970519999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Admirals Beach",
+      "lat":47.004135159,
+      "lon":-53.6419178619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Alderburn",
+      "lat":49.111974582,
+      "lon":-55.2544338959999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Allan's Island",
+      "lat":46.856905238,
+      "lon":-55.8122104499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Anchor Point",
+      "lat":51.234532899,
+      "lon":-56.7975508929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Angels Cove",
+      "lat":47.002613431,
+      "lon":-54.1372014129999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Appleton",
+      "lat":48.981316062,
+      "lon":-54.8566032049999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Aquaforte",
+      "lat":47.009066599,
+      "lon":-52.9607836989999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Arches Provincial Park",
+      "lat":50.1136111,
+      "lon":-57.6630556,
+      "province":"NL"
+   },
+   {
+      "display_name":"Argentia",
+      "lat":47.297873179,
+      "lon":-53.9889409569999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Arnold's Cove",
+      "lat":47.762959921,
+      "lon":-53.9814943259999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Aspen Cove",
+      "lat":49.455296792,
+      "lon":-54.1062311789999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Aspey Brook",
+      "lat":48.161577398,
+      "lon":-53.8456943679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Avondale",
+      "lat":47.419831192,
+      "lon":-53.1952268539999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Back Cove",
+      "lat":49.848818029,
+      "lon":-56.5641983309999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Badger",
+      "lat":48.975050552,
+      "lon":-56.0395989989999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Baie Verte",
+      "lat":49.940470114,
+      "lon":-56.1971480529999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Baine Harbour",
+      "lat":47.359305444,
+      "lon":-54.9075924029999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Barachois Brook",
+      "lat":48.450324903,
+      "lon":-58.4373155039999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Barachois Pond Provincial Park",
+      "lat":48.4722222,
+      "lon":-58.2530555,
+      "province":"NL"
+   },
+   {
+      "display_name":"Barge Bay",
+      "lat":51.798972421,
+      "lon":-56.2096017489999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Barr'd Islands",
+      "lat":49.721497293,
+      "lon":-54.1921039889999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bartletts Harbour",
+      "lat":50.948143415,
+      "lon":-56.9975159449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bauline",
+      "lat":47.719545657,
+      "lon":-52.8301186499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bay Bulls",
+      "lat":47.317805479,
+      "lon":-52.8139576929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bay de Verde",
+      "lat":48.087283875,
+      "lon":-52.8943938039999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bay L'Argent",
+      "lat":47.544801174,
+      "lon":-54.8831801689999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bay Roberts",
+      "lat":47.594782477,
+      "lon":-53.2654520509999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bayside",
+      "lat":49.533552604,
+      "lon":-56.8730160159999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Baytona",
+      "lat":49.333349111,
+      "lon":-54.7733632499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Beachside",
+      "lat":49.640388291,
+      "lon":-55.8975721979999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Beau Bois",
+      "lat":47.1416104,
+      "lon":-55.1057017739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Beaumont North",
+      "lat":49.619420176,
+      "lon":-55.6881097019999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bellburns",
+      "lat":50.332511981,
+      "lon":-57.5372199219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Belleoram",
+      "lat":47.523843782,
+      "lon":-55.4176603079999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bellevue",
+      "lat":47.629747954,
+      "lon":-53.7356293719999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bellevue Beach",
+      "lat":47.62896707,
+      "lon":-53.7769963039999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bellevue Beach Provincial Park",
+      "lat":47.6338888999999,
+      "lon":-53.7663888999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Benoit's Cove",
+      "lat":49.006670334,
+      "lon":-58.1282139529999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Benton",
+      "lat":48.897453975,
+      "lon":-54.4157231809999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bide Arm",
+      "lat":50.807640133,
+      "lon":-56.1139952649999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Big Brook",
+      "lat":51.519590588,
+      "lon":-56.1497772499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Birchy Bay",
+      "lat":49.361438313,
+      "lon":-54.7264247859999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Birchy Cove",
+      "lat":48.59505628,
+      "lon":-53.1772896719999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Birchy Head",
+      "lat":49.455028378,
+      "lon":-57.9146695079999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bird Cove",
+      "lat":51.048464124,
+      "lon":-56.9433949219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Biscay Bay",
+      "lat":46.743147186,
+      "lon":-53.2890376639999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Biscayan Cove",
+      "lat":47.803565498,
+      "lon":-52.7888067469999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bishop's Cove",
+      "lat":47.637195644,
+      "lon":-53.2254498599999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bishop's Falls",
+      "lat":49.01308402,
+      "lon":-55.4985269999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Black Duck",
+      "lat":48.576396661,
+      "lon":-58.3818406019999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Black Duck Brook",
+      "lat":48.704693977,
+      "lon":-58.9047909229999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Black Tickle",
+      "lat":53.463458949,
+      "lon":-55.7778613959999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Blaketown",
+      "lat":47.48348,
+      "lon":-53.5536715169999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bloomfield",
+      "lat":48.376480398,
+      "lon":-53.9225446419999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Blow Me Down Provincial Park",
+      "lat":49.0911111,
+      "lon":-58.3644444,
+      "province":"NL"
+   },
+   {
+      "display_name":"Blue Cove",
+      "lat":51.096517897,
+      "lon":-56.8704753779999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Boat Harbour West",
+      "lat":47.432177277,
+      "lon":-54.8424084899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bonavista",
+      "lat":48.652323211,
+      "lon":-53.1222698979999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bonne Bay",
+      "lat":49.504624083,
+      "lon":-57.9239855989999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Boswarlos",
+      "lat":48.565529058,
+      "lon":-58.8110156099999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Botwood",
+      "lat":49.149777813,
+      "lon":-55.3414348169999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Boxey",
+      "lat":47.455572849,
+      "lon":-55.5573676949999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Boyd's Cove",
+      "lat":49.444047314,
+      "lon":-54.6593125489999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bradleys Cove",
+      "lat":47.879820411,
+      "lon":-53.0845795679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Branch",
+      "lat":46.881188154,
+      "lon":-53.9539513429999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brent's Cove",
+      "lat":49.935979811,
+      "lon":-55.7128456629999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bridgeport",
+      "lat":49.550867266,
+      "lon":-54.8765285489999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brig Bay",
+      "lat":51.059827592,
+      "lon":-56.9125908779999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brighton",
+      "lat":49.54692041,
+      "lon":-55.6303036619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brigus",
+      "lat":47.535927955,
+      "lon":-53.2078705249999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brigus Junction",
+      "lat":47.394603058,
+      "lon":-53.2995350099999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brigus South",
+      "lat":47.114615221,
+      "lon":-52.8852107619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bristol's Hope",
+      "lat":47.717004419,
+      "lon":-53.1954016219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Britannia",
+      "lat":48.143380992,
+      "lon":-53.7210513369999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Broad Cove",
+      "lat":47.836465619,
+      "lon":-53.0942751839999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brookfield",
+      "lat":49.138581786,
+      "lon":-53.5859036619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brooklyn",
+      "lat":48.384166625,
+      "lon":-53.8694444069999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brookside",
+      "lat":47.431485215,
+      "lon":-54.8142149709999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brown's Arm",
+      "lat":49.254331766,
+      "lon":-55.1731702659999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Brownsdale",
+      "lat":48.033972545,
+      "lon":-53.1220194249999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bryant's Cove",
+      "lat":47.676214403,
+      "lon":-53.1890721679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Buchans",
+      "lat":48.822279839,
+      "lon":-56.8600433299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Buchans Junction",
+      "lat":48.856529177,
+      "lon":-56.4305820549999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bulley's Cove",
+      "lat":49.354450177,
+      "lon":-55.3599654109999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Bunyan's Cove",
+      "lat":48.397364279,
+      "lon":-54.0279343849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Burgeo",
+      "lat":47.624270694,
+      "lon":-57.6195748329999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Burgoynes Cove",
+      "lat":48.1680405,
+      "lon":-53.7104736899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Burin",
+      "lat":47.042595708,
+      "lon":-55.1801763979999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Burin Bay",
+      "lat":47.021194444,
+      "lon":-55.1805266839999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Burlington",
+      "lat":49.75090639,
+      "lon":-56.0186614589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Burnside",
+      "lat":48.713687437,
+      "lon":-53.7954043679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Burnt Islands",
+      "lat":47.603921389,
+      "lon":-58.8840385539999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Burnt Point",
+      "lat":47.958170176,
+      "lon":-53.0355652009999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Burnt Village",
+      "lat":51.166709671,
+      "lon":-55.9853871019999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Butter Cove",
+      "lat":48.028223205,
+      "lon":-53.6470604589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Butter Pot Provincial Park",
+      "lat":47.3847222,
+      "lon":-53.0608333,
+      "province":"NL"
+   },
+   {
+      "display_name":"Calvert",
+      "lat":47.054168921,
+      "lon":-52.9121860539999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Campbells Creek",
+      "lat":48.529073208,
+      "lon":-58.8712616009999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Campbellton",
+      "lat":49.286387806,
+      "lon":-54.9435423469999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cannings Cove",
+      "lat":48.441546105,
+      "lon":-53.8506114629999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cape Broyle",
+      "lat":47.094467259,
+      "lon":-52.9555437769999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cape Freels North",
+      "lat":49.260910399,
+      "lon":-53.5020216699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cape Race",
+      "lat":46.6597222,
+      "lon":-53.0736110999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cape Ray",
+      "lat":47.634474454,
+      "lon":-59.2837898919999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cape St. George",
+      "lat":48.472290299,
+      "lon":-59.2546620219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Caplin Cove",
+      "lat":48.03637384,
+      "lon":-52.9834759429999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cappahayden",
+      "lat":46.869856407,
+      "lon":-52.9408392299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Capstan Island",
+      "lat":51.566699672,
+      "lon":-56.7332980389999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Carbonear",
+      "lat":47.734127334,
+      "lon":-53.2351712439999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Carmanville",
+      "lat":49.406034671,
+      "lon":-54.2914030929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cartwright",
+      "lat":53.69999832,
+      "lon":-56.9865644669999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cartwright Junction",
+      "lat":53.0702797999999,
+      "lon":-57.5133298,
+      "province":"NL"
+   },
+   {
+      "display_name":"Castor River North",
+      "lat":50.934779836,
+      "lon":-56.9556431629999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Castor River South",
+      "lat":50.921877551,
+      "lon":-56.9511302279999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Catalina",
+      "lat":48.519682354,
+      "lon":-53.0799052179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cataracts Provincial Park",
+      "lat":47.2419444999999,
+      "lon":-53.6302778,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cavendish",
+      "lat":47.720870832,
+      "lon":-53.4892617589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Centreville",
+      "lat":49.006661686,
+      "lon":-53.8920938489999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Chamberlains",
+      "lat":47.530878437,
+      "lon":-52.9427430219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Champney's West",
+      "lat":48.382501796,
+      "lon":-53.3125014399999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Chance Cove",
+      "lat":47.675241849,
+      "lon":-53.8207262369999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Chance Cove Provincial Park",
+      "lat":46.7761111,
+      "lon":-53.0361111999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Change Islands",
+      "lat":49.670034921,
+      "lon":-54.4073545799999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Channel-Port aux Basques",
+      "lat":47.571921825,
+      "lon":-59.1474988919999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Chapel Arm",
+      "lat":47.521086959,
+      "lon":-53.6743591389999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Chapel's Cove",
+      "lat":47.434267121,
+      "lon":-53.1374064539999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Charlottetown (Eagle River)",
+      "lat":52.768601456,
+      "lon":-56.1160533729999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Charlottetown (Terra Nova)",
+      "lat":48.433643611,
+      "lon":-54.0131498679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cheeseman Provincial Park",
+      "lat":47.629465,
+      "lon":-59.256888,
+      "province":"NL"
+   },
+   {
+      "display_name":"Churchill Falls",
+      "lat":53.529554757,
+      "lon":-64.0135813649999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Clarenville",
+      "lat":48.156944321,
+      "lon":-53.9711769029999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Clarke's Beach",
+      "lat":47.545411416,
+      "lon":-53.2864827079999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Clarke's Head",
+      "lat":49.297395671,
+      "lon":-54.5050274429999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Coachman's Cove",
+      "lat":50.058666341,
+      "lon":-56.1221835969999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cobbs Arm",
+      "lat":49.613648435,
+      "lon":-54.5837257019999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Codroy",
+      "lat":47.883731129,
+      "lon":-59.3998144749999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Codroy Valley Beach Provincial Park",
+      "lat":47.8336111,
+      "lon":-59.3377778,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cold Brook",
+      "lat":48.600944124,
+      "lon":-58.5318441289999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Colinet",
+      "lat":47.218418662,
+      "lon":-53.5504140259999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Come By Chance",
+      "lat":47.836087489,
+      "lon":-53.9867764479999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Comfort Cove-Newstead",
+      "lat":49.4005284,
+      "lon":-54.8613232319999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Conception Harbour",
+      "lat":47.440705349,
+      "lon":-53.2151830949999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Conche",
+      "lat":50.888542592,
+      "lon":-55.8999175869999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Coney Arm",
+      "lat":49.961771189,
+      "lon":-56.7895354699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cook's Harbour",
+      "lat":51.604439356,
+      "lon":-55.8668642489999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Coomb's Cove",
+      "lat":47.457185175,
+      "lon":-55.6344370099999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cormack",
+      "lat":49.308836218,
+      "lon":-57.3916734569999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Corner Brook",
+      "lat":48.952121783,
+      "lon":-57.9471325979999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cottlesville",
+      "lat":49.509078822,
+      "lon":-54.8622167849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cottrell's Cove",
+      "lat":49.491086658,
+      "lon":-55.2844095439999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cow Head",
+      "lat":49.918057164,
+      "lon":-57.8154857059999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cox's Cove",
+      "lat":49.121683503,
+      "lon":-58.0781720179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Creston",
+      "lat":47.145503636,
+      "lon":-55.2000710699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Croque",
+      "lat":51.0640589,
+      "lon":-55.8345004049999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cupids Crossing",
+      "lat":47.52814689,
+      "lon":-53.2524254409999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Cuslett",
+      "lat":46.959875893,
+      "lon":-54.1606587819999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Daniel's Harbour",
+      "lat":50.236057923,
+      "lon":-57.5886255699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Daniel's Point",
+      "lat":46.756511759,
+      "lon":-53.3738638809999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Dawson's Cove",
+      "lat":47.533876517,
+      "lon":-55.9452791829999,
+      "province":"NL"
+   },
+   {
+      "display_name":"De Grau",
+      "lat":48.496297475,
+      "lon":-59.1572795209999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Deadman's Bay",
+      "lat":49.354288339,
+      "lon":-53.6940549179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Deadman's Bay Provincial Park",
+      "lat":49.3316667,
+      "lon":-53.6924999999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Deadmans Cove",
+      "lat":51.25049076,
+      "lon":-56.7819431039999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Deep Bay",
+      "lat":49.663029239,
+      "lon":-54.2951920779999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Deep Bight",
+      "lat":48.096875819,
+      "lon":-53.9517402409999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Deer Lake",
+      "lat":49.178294219,
+      "lon":-57.4232702899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Diamond Cove",
+      "lat":47.615965644,
+      "lon":-58.7174939039999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Dildo",
+      "lat":47.567067538,
+      "lon":-53.5493462599999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Dildo Run Provincial Park",
+      "lat":49.5355556,
+      "lon":-54.7219445,
+      "province":"NL"
+   },
+   {
+      "display_name":"Dover",
+      "lat":48.868420651,
+      "lon":-53.9741054589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Duley Lake Provincial Park",
+      "lat":52.8761111,
+      "lon":-67.0180555,
+      "province":"NL"
+   },
+   {
+      "display_name":"Dunfield",
+      "lat":48.350547799,
+      "lon":-53.3754021569999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Dungeon Provincial Park",
+      "lat":48.6666667,
+      "lon":-53.0838889,
+      "province":"NL"
+   },
+   {
+      "display_name":"Duntara",
+      "lat":48.597084923,
+      "lon":-53.3779938929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Dunville",
+      "lat":47.269510117,
+      "lon":-53.9036279659999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Durrell",
+      "lat":49.656183515,
+      "lon":-54.7388618819999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Eastern Corner",
+      "lat":47.700888998,
+      "lon":-53.4796265839999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Eastport",
+      "lat":48.65117856,
+      "lon":-53.7599683939999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Eddies Cove",
+      "lat":51.41009753,
+      "lon":-56.4601832679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Eddies Cove West",
+      "lat":50.752156203,
+      "lon":-57.1669150599999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Elliott's Cove",
+      "lat":48.14710266,
+      "lon":-53.9050399509999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Elliston",
+      "lat":48.629263759,
+      "lon":-53.0485864539999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Embree",
+      "lat":49.298264758,
+      "lon":-55.0292677569999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Englee",
+      "lat":50.728920373,
+      "lon":-56.1043880009999,
+      "province":"NL"
+   },
+   {
+      "display_name":"English Harbour",
+      "lat":48.372972631,
+      "lon":-53.2629636789999,
+      "province":"NL"
+   },
+   {
+      "display_name":"English Harbour East",
+      "lat":47.63410223,
+      "lon":-54.9023760049999,
+      "province":"NL"
+   },
+   {
+      "display_name":"English Harbour West",
+      "lat":47.46121352,
+      "lon":-55.4972299619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"English Point",
+      "lat":51.490527342,
+      "lon":-56.9277676459999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Epworth",
+      "lat":47.02865567,
+      "lon":-55.2095476209999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fair Haven",
+      "lat":47.540045834,
+      "lon":-53.8972390309999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fairbanks-Hillgrade",
+      "lat":49.555362713,
+      "lon":-54.7173180309999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fermeuse",
+      "lat":46.976860256,
+      "lon":-52.9592026919999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Ferryland",
+      "lat":47.022297154,
+      "lon":-52.8906566389999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fitzgerald's Pond Provincial Park",
+      "lat":47.3341667,
+      "lon":-53.7386111,
+      "province":"NL"
+   },
+   {
+      "display_name":"Flat Bay",
+      "lat":48.397850601,
+      "lon":-58.5862985959999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Flatrock",
+      "lat":47.702224366,
+      "lon":-52.7105411109999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Flatwater Pond Provincial Park",
+      "lat":49.7561111,
+      "lon":-56.3116665999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fleur de Lys",
+      "lat":50.125286052,
+      "lon":-56.1324830349999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Flower's Cove",
+      "lat":51.306040677,
+      "lon":-56.7333541819999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fogo",
+      "lat":49.711393031,
+      "lon":-54.2844945779999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Forest Field-New Bridge",
+      "lat":47.141970134,
+      "lon":-53.4517037169999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Forresters Point",
+      "lat":51.181400884,
+      "lon":-56.8099449079999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Forteau",
+      "lat":51.474998642,
+      "lon":-56.9556556959999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fortune",
+      "lat":47.072999845,
+      "lon":-55.8235840799999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fortune Harbour",
+      "lat":49.501592841,
+      "lon":-55.2311712819999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fox Cove",
+      "lat":47.091517737,
+      "lon":-55.0989031149999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fox Harbour",
+      "lat":47.322933975,
+      "lon":-53.9135935199999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fox Island River",
+      "lat":48.685844883,
+      "lon":-58.6836764999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Fox Roost",
+      "lat":47.571290868,
+      "lon":-59.0441843949999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Foxtrap",
+      "lat":47.510245599,
+      "lon":-52.9832471649999,
+      "province":"NL"
+   },
+   {
+      "display_name":"François",
+      "lat":47.578065258,
+      "lon":-56.7288282099999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Frederickton",
+      "lat":49.427245049,
+      "lon":-54.3549107699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Frenchman's Cove Provincial Park",
+      "lat":47.2097221999999,
+      "lon":-55.4019445,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gallants",
+      "lat":48.707387158,
+      "lon":-58.2391922959999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gambo",
+      "lat":48.791133069,
+      "lon":-54.2102881449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gambo South",
+      "lat":48.771133429,
+      "lon":-54.2294197209999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gander",
+      "lat":48.958861252,
+      "lon":-54.6104400949999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gander Bay",
+      "lat":49.295065347,
+      "lon":-54.4819523289999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gander Bay South",
+      "lat":49.275098921,
+      "lon":-54.4897348059999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Garden Cove",
+      "lat":47.850110715,
+      "lon":-54.1587374019999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gargamelle",
+      "lat":50.694148948,
+      "lon":-57.3472168859999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Garnish",
+      "lat":47.237516765,
+      "lon":-55.3718451679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gaskiers",
+      "lat":46.875690973,
+      "lon":-53.6100873099999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gaultois",
+      "lat":47.613245262,
+      "lon":-55.9169659139999,
+      "province":"NL"
+   },
+   {
+      "display_name":"George's Brook",
+      "lat":48.23540102,
+      "lon":-53.9595473739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gillams",
+      "lat":49.015713407,
+      "lon":-58.0699642729999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Glenburnie",
+      "lat":49.434632973,
+      "lon":-57.8928839029999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Glenwood",
+      "lat":48.993609723,
+      "lon":-54.8800061649999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Glover's Harbour",
+      "lat":49.451421195,
+      "lon":-55.4884082499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Glovertown",
+      "lat":48.675893193,
+      "lon":-54.0415464449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Glovertown South",
+      "lat":48.671049842,
+      "lon":-54.0004209929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Goobies",
+      "lat":47.944307112,
+      "lon":-53.9649576999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Goose Cove East",
+      "lat":51.295762593,
+      "lon":-55.6245599519999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gooseberry Cove",
+      "lat":48.032973933,
+      "lon":-53.6373976549999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gooseberry Cove Provincial Park",
+      "lat":47.0680555,
+      "lon":-54.0877778,
+      "province":"NL"
+   },
+   {
+      "display_name":"Goulds",
+      "lat":47.455238961,
+      "lon":-52.7770254069999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grand Bank",
+      "lat":47.098588974,
+      "lon":-55.7570523849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grand Bay East",
+      "lat":47.584687121,
+      "lon":-59.1689631799999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grand Beach",
+      "lat":47.13570122,
+      "lon":-55.5134930299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grand Bruit",
+      "lat":47.675409036,
+      "lon":-58.2341555969999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grand Codroy Provincial Park",
+      "lat":47.8352778,
+      "lon":-59.2116666999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grand Falls-Windsor",
+      "lat":48.942090995,
+      "lon":-55.6539522409999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grand Jardin",
+      "lat":48.479724474,
+      "lon":-59.2180752069999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grand Le Pierre",
+      "lat":47.679561298,
+      "lon":-54.7985340119999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grates Cove",
+      "lat":48.166666667,
+      "lon":-52.9394444439999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Great Barasway",
+      "lat":47.123651634,
+      "lon":-54.0639159939999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Great Brehat",
+      "lat":51.424467222,
+      "lon":-55.5005217769999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Great Codroy",
+      "lat":47.855190749,
+      "lon":-59.2625578949999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Green Island Brook",
+      "lat":51.392788938,
+      "lon":-56.5271795339999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Green Island Cove",
+      "lat":51.378930878,
+      "lon":-56.5704570369999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Green's Harbour",
+      "lat":47.640968555,
+      "lon":-53.5019806729999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Greenspond",
+      "lat":49.069662257,
+      "lon":-53.5696614019999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grenfell Heights",
+      "lat":48.950919867,
+      "lon":-55.6327173449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Grey River",
+      "lat":47.585573504,
+      "lon":-57.1278035499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Griquet",
+      "lat":51.530270129,
+      "lon":-55.4571963459999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gros Morne National Park of Canada",
+      "lat":49.6894444,
+      "lon":-57.7380555999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Gunners Cove",
+      "lat":51.517562616,
+      "lon":-55.4633617589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Halfway Point",
+      "lat":48.990821381,
+      "lon":-58.1044663639999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hampden",
+      "lat":49.542892347,
+      "lon":-56.8561844189999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hant's Harbour",
+      "lat":48.008707027,
+      "lon":-53.2638793009999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Happy Adventure",
+      "lat":48.63605795,
+      "lon":-53.7556058469999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Happy Valley - Goose Bay",
+      "lat":53.299462691,
+      "lon":-60.3184701109999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Harbour Breton",
+      "lat":47.476728381,
+      "lon":-55.8185847459999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Harbour Grace",
+      "lat":47.691098309,
+      "lon":-53.2269721349999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Harbour Le Cou",
+      "lat":47.623569866,
+      "lon":-58.6984214779999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Harbour Main",
+      "lat":47.433735097,
+      "lon":-53.1597895239999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Harbour Mille",
+      "lat":47.585678694,
+      "lon":-54.8917609289999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Harbour Round",
+      "lat":49.923241826,
+      "lon":-55.7250832959999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Harcourt",
+      "lat":48.19723137,
+      "lon":-53.8591100089999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hare Bay",
+      "lat":48.855288611,
+      "lon":-54.0179087629999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Harry's Harbour",
+      "lat":49.700516195,
+      "lon":-55.9257303879999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hatchet Cove",
+      "lat":48.026318538,
+      "lon":-53.7999210879999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hawke's Bay",
+      "lat":50.600868716,
+      "lon":-57.1726445949999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Head of Bay D'Espoir",
+      "lat":47.929391634,
+      "lon":-55.7510008089999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Heart's Content",
+      "lat":47.866991062,
+      "lon":-53.3633767639999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Heart's Delight",
+      "lat":47.768161593,
+      "lon":-53.4709279369999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Heart's Desire",
+      "lat":47.811431628,
+      "lon":-53.4429435729999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Heatherton",
+      "lat":48.27824802,
+      "lon":-58.7621858339999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hermitage-Sandyville",
+      "lat":47.557821143,
+      "lon":-55.9240952289999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hibbs Cove",
+      "lat":47.60233562,
+      "lon":-53.1846261659999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hickman's Harbour",
+      "lat":48.110967033,
+      "lon":-53.7474646849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hillview",
+      "lat":48.036656235,
+      "lon":-53.9271292529999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hodge's Cove",
+      "lat":48.00757357,
+      "lon":-53.7390574589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Holyrood",
+      "lat":47.386160028,
+      "lon":-53.1357797219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hopeall",
+      "lat":47.612449108,
+      "lon":-53.5072178809999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hopedale",
+      "lat":55.459039624,
+      "lon":-60.2100910439999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Horwood",
+      "lat":49.456171813,
+      "lon":-54.5246679079999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Howley",
+      "lat":49.167611171,
+      "lon":-57.1152588359999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Hughes Brook",
+      "lat":49.001248023,
+      "lon":-57.8811335839999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Humber Village",
+      "lat":48.987569885,
+      "lon":-57.7658862199999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Indian Bay",
+      "lat":49.041994215,
+      "lon":-53.8709126719999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Indian Cove",
+      "lat":49.597359753,
+      "lon":-54.6773951759999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Irishtown (Bay of Islands)",
+      "lat":48.989279608,
+      "lon":-57.9372446809999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Irvine",
+      "lat":47.528482362,
+      "lon":-52.8749391219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Island Harbour",
+      "lat":49.619752394,
+      "lon":-54.3058098879999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Isle aux Morts",
+      "lat":47.58880677,
+      "lon":-58.9769661849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Islington",
+      "lat":47.758810254,
+      "lon":-53.4838300919999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jack Ladder",
+      "lat":49.324333867,
+      "lon":-57.5355153089999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jack's Pond Provincial Park",
+      "lat":47.7547222,
+      "lon":-53.9563888999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jackson's Arm",
+      "lat":49.863637949,
+      "lon":-56.7836816069999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jackson's Cove",
+      "lat":49.684049674,
+      "lon":-55.9997963869999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jacques Fontaine",
+      "lat":47.523470846,
+      "lon":-54.9274227259999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jamestown",
+      "lat":48.440568815,
+      "lon":-53.8073475099999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jean de Baie",
+      "lat":47.23039856,
+      "lon":-55.0700309189999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jeffrey's",
+      "lat":48.223775178,
+      "lon":-58.8432806979999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jenkins Cove",
+      "lat":49.663258785,
+      "lon":-54.7508984499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jerseyside",
+      "lat":47.255690958,
+      "lon":-53.9627323399999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jipujijkuei Kuespem (Little River Pond) Provincial Park",
+      "lat":47.9172222,
+      "lon":-55.6005555,
+      "province":"NL"
+   },
+   {
+      "display_name":"Job's Cove",
+      "lat":47.971334843,
+      "lon":-53.0203562369999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Joe Batt's Arm",
+      "lat":49.724916273,
+      "lon":-54.1808355899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Jonathan's Pond Provincial Park",
+      "lat":49.0538889,
+      "lon":-54.5822223,
+      "province":"NL"
+   },
+   {
+      "display_name":"Keels",
+      "lat":48.60866846,
+      "lon":-53.4048078119999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Kelligrews",
+      "lat":47.503289019,
+      "lon":-53.0065230179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Kilbride",
+      "lat":47.522370632,
+      "lon":-52.7486945499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"King's Cove",
+      "lat":48.566882606,
+      "lon":-53.3367266429999,
+      "province":"NL"
+   },
+   {
+      "display_name":"King's Point",
+      "lat":49.587379514,
+      "lon":-56.1904727789999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Kingston",
+      "lat":47.826548201,
+      "lon":-53.1123248679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Kippens",
+      "lat":48.551482336,
+      "lon":-58.6219921689999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Knights Cove",
+      "lat":48.5401079,
+      "lon":-53.3283222069999,
+      "province":"NL"
+   },
+   {
+      "display_name":"La Manche Provincial Park",
+      "lat":47.1788888,
+      "lon":-52.8902778,
+      "province":"NL"
+   },
+   {
+      "display_name":"La Poile",
+      "lat":47.679621215,
+      "lon":-58.4029408929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Labrador City",
+      "lat":52.941922127,
+      "lon":-66.9140775799999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Ladle Cove",
+      "lat":49.468491204,
+      "lon":-54.0664562209999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lady Cove",
+      "lat":48.092987556,
+      "lon":-53.8415164769999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lakeview",
+      "lat":47.422358042,
+      "lon":-53.1539733309999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lamaline",
+      "lat":46.86891128,
+      "lon":-55.8054387449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lance Cove (Harbour Main-Bell Island)",
+      "lat":47.601811134,
+      "lon":-52.9762506479999,
+      "province":"NL"
+   },
+   {
+      "display_name":"L'Anse au Loup",
+      "lat":51.524058934,
+      "lon":-56.8323226679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"L'Anse aux Meadows",
+      "lat":51.593979978,
+      "lon":-55.5274014859999,
+      "province":"NL"
+   },
+   {
+      "display_name":"L'Anse-Amour",
+      "lat":51.46670224,
+      "lon":-56.8666985299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"L'Anse-au-Clair",
+      "lat":51.416698025,
+      "lon":-57.0833032809999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lark Harbour",
+      "lat":49.10164187,
+      "lon":-58.3894315849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"LaScie",
+      "lat":49.958647126,
+      "lon":-55.5936611659999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Laurenceton",
+      "lat":49.194429203,
+      "lon":-55.2748367649999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lawn",
+      "lat":46.951298697,
+      "lon":-55.5537487809999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lead Cove",
+      "lat":48.047082232,
+      "lon":-53.0920521639999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Leading Tickles",
+      "lat":49.504328922,
+      "lon":-55.4543681529999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lears Cove",
+      "lat":46.85081352,
+      "lon":-54.1847995269999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lethbridge",
+      "lat":48.367642232,
+      "lon":-53.8632861809999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lewin's Cove",
+      "lat":47.092704036,
+      "lon":-55.2312412149999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lewisporte",
+      "lat":49.246739267,
+      "lon":-55.0666998839999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Little Bay East",
+      "lat":47.555673504,
+      "lon":-54.8528130599999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Little Bay Islands",
+      "lat":49.641008634,
+      "lon":-55.7928267259999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Little Burnt Bay",
+      "lat":49.341649347,
+      "lon":-55.0787050449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Little Catalina",
+      "lat":48.546255302,
+      "lon":-53.0400082259999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Little Heart's Ease",
+      "lat":48.012546526,
+      "lon":-53.6848521579999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Little Rapids",
+      "lat":48.993447545,
+      "lon":-57.7078083199999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Little St. Lawrence",
+      "lat":46.929571164,
+      "lon":-55.3593898449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lockston Path Provincial Park",
+      "lat":48.4380556,
+      "lon":-53.3797222,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lodge Bay",
+      "lat":52.224793217,
+      "lon":-55.8304160699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Logy Bay",
+      "lat":47.629046665,
+      "lon":-52.6791593699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Long Beach",
+      "lat":47.993700692,
+      "lon":-53.8169673729999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Long Cove (Bellevue)",
+      "lat":47.567818498,
+      "lon":-53.6715995039999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Long Harbour",
+      "lat":47.442383493,
+      "lon":-53.7905836449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Long Pond",
+      "lat":47.518771958,
+      "lon":-52.9702287879999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Loon Bay",
+      "lat":49.272316454,
+      "lon":-54.8338138219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lord's Cove",
+      "lat":46.880698048,
+      "lon":-55.6723580009999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lourdes",
+      "lat":48.649236378,
+      "lon":-58.9979009469999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lower Cove",
+      "lat":48.523658035,
+      "lon":-59.0041125009999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lower Island Cove",
+      "lat":47.998957936,
+      "lon":-52.9812513849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lower Lance Cove",
+      "lat":48.146830853,
+      "lon":-53.7022481519999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lumsden",
+      "lat":49.295804444,
+      "lon":-53.5973011939999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Lushes Bight",
+      "lat":49.59493973,
+      "lon":-55.7146654929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Maberly",
+      "lat":48.61881102,
+      "lon":-53.0271092679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Maddox Cove",
+      "lat":47.474677731,
+      "lon":-52.7021959459999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mahers",
+      "lat":47.408084283,
+      "lon":-53.3794803569999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Main Brook",
+      "lat":51.185563165,
+      "lon":-56.0126965969999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Main Point",
+      "lat":49.337880478,
+      "lon":-54.4286827059999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Main River Waterway Provincial Park",
+      "lat":49.8252909999999,
+      "lon":-57.194068,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mainland",
+      "lat":48.564615264,
+      "lon":-59.1811273719999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Makinsons",
+      "lat":47.489247925,
+      "lon":-53.3124260349999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Makkovik",
+      "lat":55.090869332,
+      "lon":-59.1667093449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Marches Point",
+      "lat":48.50670113,
+      "lon":-59.1255835279999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Margaree",
+      "lat":47.575504762,
+      "lon":-59.0615936799999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Marine Drive Provincial Park",
+      "lat":47.7513888999999,
+      "lon":-52.8072222,
+      "province":"NL"
+   },
+   {
+      "display_name":"Markland",
+      "lat":47.376593884,
+      "lon":-53.5445938559999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mary's Harbour",
+      "lat":52.301749602,
+      "lon":-55.8309445509999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Marystown",
+      "lat":47.168544372,
+      "lon":-55.1630375759999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Marystown South",
+      "lat":47.157513589,
+      "lon":-55.1607844049999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Marysvale",
+      "lat":47.487972278,
+      "lon":-53.2235952219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Massey Drive",
+      "lat":48.934647971,
+      "lon":-57.8897161699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mattis Point",
+      "lat":48.491832978,
+      "lon":-58.3959325579999,
+      "province":"NL"
+   },
+   {
+      "display_name":"McCallum",
+      "lat":47.637333046,
+      "lon":-56.2389072849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"McIver's",
+      "lat":49.075094125,
+      "lon":-58.1231492239999,
+      "province":"NL"
+   },
+   {
+      "display_name":"McKay's",
+      "lat":48.236671242,
+      "lon":-58.8194320719999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Meadows",
+      "lat":48.994516501,
+      "lon":-58.0432962379999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Melrose",
+      "lat":48.480379089,
+      "lon":-53.0718127179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Michael's Harbour",
+      "lat":49.286804551,
+      "lon":-54.9845885739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Middle Arm (Baie Verte)",
+      "lat":49.70663295,
+      "lon":-56.0886013069999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Middle Brook",
+      "lat":48.801838885,
+      "lon":-54.2146303539999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Miles Cove",
+      "lat":49.54170904,
+      "lon":-55.7866345669999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Millertown",
+      "lat":48.813816114,
+      "lon":-56.5407184929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Milltown",
+      "lat":47.904674356,
+      "lon":-55.7650611839999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Ming's Bight",
+      "lat":49.975357202,
+      "lon":-56.0452937519999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mitchells Brook",
+      "lat":47.130894839,
+      "lon":-53.5050330839999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mobile",
+      "lat":47.250562045,
+      "lon":-52.8469237069999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Molliers",
+      "lat":47.1038888999999,
+      "lon":-55.6511110999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Monkstown",
+      "lat":47.575697264,
+      "lon":-54.4345375599999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Monroe",
+      "lat":48.199405333,
+      "lon":-53.7937369409999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Moreton's Harbour",
+      "lat":49.566207865,
+      "lon":-54.8662797289999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Morrisville",
+      "lat":47.876882094,
+      "lon":-55.7702674559999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mortier",
+      "lat":47.090542595,
+      "lon":-55.1301569279999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mose Ambrose",
+      "lat":47.466411211,
+      "lon":-55.5119869549999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mount Arlington Heights",
+      "lat":47.429205481,
+      "lon":-53.8448530439999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mount Carmel",
+      "lat":47.158838674,
+      "lon":-53.4720449859999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mount Moriah",
+      "lat":48.967212529,
+      "lon":-58.0430081549999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Mount Pearl",
+      "lat":47.515947243,
+      "lon":-52.8123781049999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Musgrave Harbour",
+      "lat":49.45128058,
+      "lon":-53.9506684609999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Musgravetown",
+      "lat":48.411457148,
+      "lon":-53.8913069709999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Nain",
+      "lat":56.53742309,
+      "lon":-61.7006203119999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Nameless Cove",
+      "lat":51.312105878,
+      "lon":-56.7196638499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Neddy Harbour",
+      "lat":49.529191757,
+      "lon":-57.8785107989999,
+      "province":"NL"
+   },
+   {
+      "display_name":"New Bonaventure",
+      "lat":48.285835235,
+      "lon":-53.4434975589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"New Burnt Cove",
+      "lat":48.173786746,
+      "lon":-53.7208290109999,
+      "province":"NL"
+   },
+   {
+      "display_name":"New Chelsea",
+      "lat":48.026810195,
+      "lon":-53.2176924969999,
+      "province":"NL"
+   },
+   {
+      "display_name":"New Ferolle",
+      "lat":51.016738133,
+      "lon":-57.0617065179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"New Harbour",
+      "lat":47.585420192,
+      "lon":-53.5425238379999,
+      "province":"NL"
+   },
+   {
+      "display_name":"New Melbourne",
+      "lat":48.044131944,
+      "lon":-53.1531860879999,
+      "province":"NL"
+   },
+   {
+      "display_name":"New Perlican",
+      "lat":47.907165007,
+      "lon":-53.3665381649999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Newfoundland T'Railway Provincial Park",
+      "lat":48.9672219999999,
+      "lon":-55.616111,
+      "province":"NL"
+   },
+   {
+      "display_name":"Newmans Cove",
+      "lat":48.587896015,
+      "lon":-53.1897883919999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Newtown (Bonavista North)",
+      "lat":49.208881251,
+      "lon":-53.5214699739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Newville",
+      "lat":49.584727553,
+      "lon":-54.6853438629999,
+      "province":"NL"
+   },
+   {
+      "display_name":"New-Wes-Valley",
+      "lat":49.1531388999999,
+      "lon":-53.6266722,
+      "province":"NL"
+   },
+   {
+      "display_name":"Nippers Harbour",
+      "lat":49.792937503,
+      "lon":-55.8670586169999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Noddy Bay",
+      "lat":51.575950375,
+      "lon":-55.4730238659999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Noels Pond",
+      "lat":48.563081702,
+      "lon":-58.5152350409999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Noggin Cove",
+      "lat":49.407614808,
+      "lon":-54.3155842239999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Normans Bay",
+      "lat":52.936506259,
+      "lon":-55.8925071229999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Norman's Cove",
+      "lat":47.560291591,
+      "lon":-53.6648162209999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Norris Arm",
+      "lat":49.083888956,
+      "lon":-55.2727945649999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Norris Point",
+      "lat":49.527705899,
+      "lon":-57.8917806309999,
+      "province":"NL"
+   },
+   {
+      "display_name":"North Boat Harbour",
+      "lat":51.590002942,
+      "lon":-55.9879001329999,
+      "province":"NL"
+   },
+   {
+      "display_name":"North Harbour (St. Mary's-The Capes)",
+      "lat":47.156196002,
+      "lon":-53.6623448129999,
+      "province":"NL"
+   },
+   {
+      "display_name":"North River (Port de Grave)",
+      "lat":47.539181146,
+      "lon":-53.3198408639999,
+      "province":"NL"
+   },
+   {
+      "display_name":"North West Brook - Ivany's Cove",
+      "lat":48.019192477,
+      "lon":-53.9517733229999,
+      "province":"NL"
+   },
+   {
+      "display_name":"North West River",
+      "lat":53.524690185,
+      "lon":-60.1261791359999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Northern Arm",
+      "lat":49.169664912,
+      "lon":-55.3894585299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Northern Bay",
+      "lat":47.944585516,
+      "lon":-53.0683612289999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Notre Dame Provincial Park",
+      "lat":49.1161111,
+      "lon":-55.0863889,
+      "province":"NL"
+   },
+   {
+      "display_name":"Ocean Pond",
+      "lat":47.433044566,
+      "lon":-53.4189655789999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Ochre Pit Cove",
+      "lat":47.90712536,
+      "lon":-53.0687875129999,
+      "province":"NL"
+   },
+   {
+      "display_name":"O'Donnells",
+      "lat":47.069857026,
+      "lon":-53.5636461479999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Old Bonaventure",
+      "lat":48.301314728,
+      "lon":-53.4226845129999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Old Perlican",
+      "lat":48.082143539,
+      "lon":-53.0062246699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Old Shop",
+      "lat":47.535393953,
+      "lon":-53.5749741469999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Open Hall",
+      "lat":48.546694166,
+      "lon":-53.4824543179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"O'Regan's",
+      "lat":47.85998798,
+      "lon":-59.2352657739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Outer Cove",
+      "lat":47.646069541,
+      "lon":-52.6853633719999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pacquet",
+      "lat":49.991411387,
+      "lon":-55.8762765489999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Paradise",
+      "lat":47.531181385,
+      "lon":-52.8576480899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Parkers Cove",
+      "lat":47.398639118,
+      "lon":-54.8661380509999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Parson's Pond",
+      "lat":50.027647173,
+      "lon":-57.7160300249999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pasadena",
+      "lat":49.013764734,
+      "lon":-57.6001982349999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Patrick's Cove",
+      "lat":47.036016141,
+      "lon":-54.1150063939999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pensons Arm",
+      "lat":52.687331083,
+      "lon":-55.8827988469999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Peter's River",
+      "lat":46.762208221,
+      "lon":-53.6098963579999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Peterview",
+      "lat":49.122185221,
+      "lon":-55.3394667299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Petit Jardin",
+      "lat":48.475017288,
+      "lon":-59.2368323419999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Petite Forte",
+      "lat":47.392969037,
+      "lon":-54.6836252619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Petley",
+      "lat":48.152140965,
+      "lon":-53.7444514939999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Petries",
+      "lat":48.959051104,
+      "lon":-58.0142416729999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Petty Harbour",
+      "lat":47.464668681,
+      "lon":-52.7129025149999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Phillips Head",
+      "lat":49.23135153,
+      "lon":-55.3139106389999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Piccadilly",
+      "lat":48.552640561,
+      "lon":-58.9151759499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pidgeon Cove-St. Barbe",
+      "lat":51.197862789,
+      "lon":-56.7802055249999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pilley's Island",
+      "lat":49.507469108,
+      "lon":-55.7260775449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pines Cove",
+      "lat":51.369224428,
+      "lon":-56.6036938999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pinware",
+      "lat":51.629884227,
+      "lon":-56.6959173869999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pinware River Provincial Park",
+      "lat":51.6316667,
+      "lon":-56.7041667,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pistolet Bay Provincial Park",
+      "lat":51.533333,
+      "lon":-55.6822219999999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Placentia",
+      "lat":47.244050476,
+      "lon":-53.9623684529999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Placentia Junction",
+      "lat":47.371842627,
+      "lon":-53.6609944259999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Plate Cove East",
+      "lat":48.517138611,
+      "lon":-53.4850606129999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Plate Cove West",
+      "lat":48.498307865,
+      "lon":-53.5054261239999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pleasantview",
+      "lat":49.362269258,
+      "lon":-55.3289987929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Plum Point",
+      "lat":51.070542394,
+      "lon":-56.8852309949999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Point au Gaul",
+      "lat":46.863192815,
+      "lon":-55.7528288619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Point au Mal",
+      "lat":48.661828023,
+      "lon":-58.6627212479999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Point La Haye",
+      "lat":46.892909115,
+      "lon":-53.6010115139999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Point Lance",
+      "lat":46.81108505,
+      "lon":-54.0853426619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Point Leamington",
+      "lat":49.339498967,
+      "lon":-55.4055746589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Point May",
+      "lat":46.901198289,
+      "lon":-55.9392753049999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Point of Bay",
+      "lat":49.262899326,
+      "lon":-55.2520637579999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Point Verde",
+      "lat":47.227881313,
+      "lon":-54.0070054739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pollards Point",
+      "lat":49.747560003,
+      "lon":-56.9038766659999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pond Cove",
+      "lat":51.123400487,
+      "lon":-56.8567451909999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pool's Cove",
+      "lat":47.682200849,
+      "lon":-55.4376883379999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pool's Island",
+      "lat":49.112755336,
+      "lon":-53.5933834869999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port Albert",
+      "lat":49.542243764,
+      "lon":-54.5328361159999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port Anson",
+      "lat":49.537008731,
+      "lon":-55.8431036349999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port au Bras",
+      "lat":47.060772791,
+      "lon":-55.1375537419999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port au Choix",
+      "lat":50.709897646,
+      "lon":-57.3625872389999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port au Port East",
+      "lat":48.557638516,
+      "lon":-58.7099422379999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port au Port West-Aguathuna-Felix Cove",
+      "lat":48.550702105,
+      "lon":-58.7568855709999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port Blandford",
+      "lat":48.348787878,
+      "lon":-54.1711286859999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port de Grave",
+      "lat":47.588372181,
+      "lon":-53.2116275109999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port Hope Simpson",
+      "lat":52.542412352,
+      "lon":-56.2869332219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port Kirwan",
+      "lat":46.971247239,
+      "lon":-52.9100366699999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port Rexton",
+      "lat":48.387952689,
+      "lon":-53.3394976499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port Saunders",
+      "lat":50.646827556,
+      "lon":-57.3068505309999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Port Union",
+      "lat":48.495942802,
+      "lon":-53.0978932789999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Portland Creek",
+      "lat":50.159466068,
+      "lon":-57.6220437389999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Portugal Cove",
+      "lat":47.622384447,
+      "lon":-52.8341684759999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Portugal Cove South",
+      "lat":46.708651175,
+      "lon":-53.2554921629999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Postville",
+      "lat":54.908231477,
+      "lon":-59.7737050429999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pouch Cove",
+      "lat":47.762301322,
+      "lon":-52.7642531679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Princeton",
+      "lat":48.418302033,
+      "lon":-53.5905716739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Purbeck's Cove",
+      "lat":49.745578718,
+      "lon":-56.6470365949999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Pynns",
+      "lat":49.100135042,
+      "lon":-57.5352022899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Queen's Cove",
+      "lat":48.009639849,
+      "lon":-53.9249849919999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Quidi Vidi",
+      "lat":47.580356946,
+      "lon":-52.6805362809999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Quirpon",
+      "lat":51.573101719,
+      "lon":-55.4457156379999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Raleigh",
+      "lat":51.558539928,
+      "lon":-55.7294412049999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Ramea",
+      "lat":47.524599678,
+      "lon":-57.4017003669999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Rattling Brook",
+      "lat":49.634132621,
+      "lon":-56.1593792619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Red Bay",
+      "lat":51.735075105,
+      "lon":-56.4198656739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Red Brook",
+      "lat":48.490403689,
+      "lon":-59.1814197219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Red Cliff",
+      "lat":48.562018244,
+      "lon":-53.4906653489999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Red Harbour",
+      "lat":47.300303673,
+      "lon":-55.0304543589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Red Head Cove",
+      "lat":48.129089826,
+      "lon":-52.8965181849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Reidville",
+      "lat":49.229951871,
+      "lon":-57.3932273039999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Rencontre East",
+      "lat":47.641560451,
+      "lon":-55.2206314749999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Renews",
+      "lat":46.929040128,
+      "lon":-52.9380346569999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Rigolet",
+      "lat":54.175447341,
+      "lon":-58.4223892189999,
+      "province":"NL"
+   },
+   {
+      "display_name":"River of Ponds",
+      "lat":50.53284202,
+      "lon":-57.4022918339999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Riverview Siding",
+      "lat":47.869906831,
+      "lon":-59.1106215779999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Roaches Line",
+      "lat":47.456237134,
+      "lon":-53.3012325589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Robert's Arm",
+      "lat":49.487011894,
+      "lon":-55.8123409299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Robinson Bight",
+      "lat":48.099394521,
+      "lon":-53.8008799899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Robinsons",
+      "lat":48.256332902,
+      "lon":-58.7938159389999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Rock Harbour",
+      "lat":47.17802384,
+      "lon":-55.0496908919999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Rocky Harbour",
+      "lat":49.586654197,
+      "lon":-57.9249334519999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Roddickton-Bide Arm",
+      "lat":50.861695108,
+      "lon":-56.1252573739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Rose Blanche",
+      "lat":47.61449609,
+      "lon":-58.6940994609999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Rushoon",
+      "lat":47.354997582,
+      "lon":-54.9139658759999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sally's Cove",
+      "lat":49.730190383,
+      "lon":-57.9350603899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Salmon Cove",
+      "lat":47.7809091,
+      "lon":-53.1713965749999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Salt Pond",
+      "lat":47.096695861,
+      "lon":-55.2006666749999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Salvage",
+      "lat":48.685861987,
+      "lon":-53.6493645299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sandbanks Provincial Park",
+      "lat":47.6072221999999,
+      "lon":-57.6472222,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sandringham",
+      "lat":48.666708331,
+      "lon":-53.8314193899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sandy Cove",
+      "lat":48.640949335,
+      "lon":-53.7355710519999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Savage Cove",
+      "lat":51.327651947,
+      "lon":-56.6959572159999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Searston",
+      "lat":47.826278976,
+      "lon":-59.3210258299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Seldom-Little Seldom",
+      "lat":49.616289022,
+      "lon":-54.1884482429999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Shea Heights",
+      "lat":47.544907777,
+      "lon":-52.7119886429999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sheaves Cove",
+      "lat":48.521443764,
+      "lon":-59.0611526079999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sheppardville",
+      "lat":49.447663221,
+      "lon":-56.4334728239999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sheshatshiu",
+      "lat":53.513633801,
+      "lon":-60.1294780509999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Shoal Bay",
+      "lat":49.691152846,
+      "lon":-54.1882720769999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Shoal Brook",
+      "lat":49.471685191,
+      "lon":-57.9258240849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Shoal Harbour",
+      "lat":48.190088804,
+      "lon":-53.9813001259999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sibleys Cove",
+      "lat":48.040770661,
+      "lon":-53.1011270829999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sir Richard Squires Memorial Provincial Park",
+      "lat":49.3524999999999,
+      "lon":-57.2027778,
+      "province":"NL"
+   },
+   {
+      "display_name":"Small Point",
+      "lat":47.83234866,
+      "lon":-53.1035588969999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Smith's Harbour",
+      "lat":49.741622518,
+      "lon":-55.9615804189999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Snooks Arm",
+      "lat":49.857109288,
+      "lon":-55.7116187569999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Snooks Harbour",
+      "lat":48.159420223,
+      "lon":-53.8791365449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sop's Arm",
+      "lat":49.773550873,
+      "lon":-56.8875460229999,
+      "province":"NL"
+   },
+   {
+      "display_name":"South Branch",
+      "lat":47.911428383,
+      "lon":-59.0255115869999,
+      "province":"NL"
+   },
+   {
+      "display_name":"South Dildo",
+      "lat":47.516955694,
+      "lon":-53.5533836709999,
+      "province":"NL"
+   },
+   {
+      "display_name":"South River",
+      "lat":47.540768079,
+      "lon":-53.2693525509999,
+      "province":"NL"
+   },
+   {
+      "display_name":"South Side",
+      "lat":49.228685967,
+      "lon":-55.0342426319999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Southeast Bight",
+      "lat":47.393756406,
+      "lon":-54.5767452439999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Southern Bay",
+      "lat":48.40303123,
+      "lon":-53.6218704469999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Southern Harbour",
+      "lat":47.716248606,
+      "lon":-53.9681284919999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Southport",
+      "lat":48.043267418,
+      "lon":-53.6417619869999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Southside",
+      "lat":47.562987614,
+      "lon":-53.2045509619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Spaniard's Bay",
+      "lat":47.61944095,
+      "lon":-53.2779771459999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Spanish Room",
+      "lat":47.201916914,
+      "lon":-55.1036245969999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Spillars Cove (Bonavista South)",
+      "lat":48.660920613,
+      "lon":-53.0809099169999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Springdale",
+      "lat":49.500544046,
+      "lon":-56.0781389759999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Alban's",
+      "lat":47.878519667,
+      "lon":-55.8447832739999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Andrew's",
+      "lat":47.761882726,
+      "lon":-59.2690058819999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Anthony",
+      "lat":51.366829054,
+      "lon":-55.5916933679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Anthony Bight",
+      "lat":51.379199506,
+      "lon":-55.5416529689999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Barbe North Sandy Cove",
+      "lat":51.337095201,
+      "lon":-56.6703629619999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Bernard's",
+      "lat":47.524296079,
+      "lon":-54.9466953849999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Brendan's",
+      "lat":48.860293141,
+      "lon":-53.6441422539999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Bride's",
+      "lat":46.929426113,
+      "lon":-54.1757099879999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Carols",
+      "lat":51.376439817,
+      "lon":-55.5061785219999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Catherine's",
+      "lat":47.181687971,
+      "lon":-53.3969933689999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Chads",
+      "lat":48.688620275,
+      "lon":-53.7784938629999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. David's",
+      "lat":48.20905252,
+      "lon":-58.8688539279999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Fintan's",
+      "lat":48.187459186,
+      "lon":-58.8461394239999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. George's",
+      "lat":48.431742845,
+      "lon":-58.4772650919999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Jacques",
+      "lat":47.486978251,
+      "lon":-55.4254268789999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. John's",
+      "lat":47.558470031,
+      "lon":-52.7172290109999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Jones Within",
+      "lat":48.04597307,
+      "lon":-53.7575505629999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Joseph's Cove",
+      "lat":47.917244751,
+      "lon":-55.8044878339999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Judes",
+      "lat":49.146866463,
+      "lon":-57.4636288259999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Julien's",
+      "lat":51.095340155,
+      "lon":-55.7513606239999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Lawrence",
+      "lat":46.926143809,
+      "lon":-55.4095585559999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Lewis",
+      "lat":52.366698874,
+      "lon":-55.6832996929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Lunaire",
+      "lat":51.50360612,
+      "lon":-55.4798740269999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Mary's",
+      "lat":46.914603783,
+      "lon":-53.5822116549999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Patricks",
+      "lat":49.574119395,
+      "lon":-55.9947536939999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Pauls",
+      "lat":49.853547798,
+      "lon":-57.8212071709999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Phillips",
+      "lat":47.59131792,
+      "lon":-52.8832906929999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Shott's",
+      "lat":46.632996482,
+      "lon":-53.5851482719999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Stephens",
+      "lat":46.776580179,
+      "lon":-53.6180782939999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Teresa",
+      "lat":48.37323475,
+      "lon":-58.6308358109999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Thomas",
+      "lat":47.575252559,
+      "lon":-52.8998453789999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Veronica's",
+      "lat":47.951071737,
+      "lon":-55.7949830719999,
+      "province":"NL"
+   },
+   {
+      "display_name":"St. Vincent's",
+      "lat":46.80400746,
+      "lon":-53.6336336969999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Stag Harbour",
+      "lat":49.581435675,
+      "lon":-54.2863583549999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Stanhope",
+      "lat":49.272884797,
+      "lon":-55.0917860329999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Steady Brook",
+      "lat":48.954392864,
+      "lon":-57.8266505489999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Stephenville",
+      "lat":48.55204116,
+      "lon":-58.5837949969999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Stephenville Crossing",
+      "lat":48.503929426,
+      "lon":-58.4427922129999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Stoneville",
+      "lat":49.453085998,
+      "lon":-54.5563988689999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Summerford",
+      "lat":49.490480559,
+      "lon":-54.7967204409999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Summerside",
+      "lat":48.979046455,
+      "lon":-57.9718587679999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Summerville",
+      "lat":48.454634053,
+      "lon":-53.5628576559999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sunnyside",
+      "lat":47.860896763,
+      "lon":-53.9249724839999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Sweet Bay",
+      "lat":48.437965548,
+      "lon":-53.6510108879999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Swift Current",
+      "lat":47.880451197,
+      "lon":-54.2002935179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Terra Nova",
+      "lat":48.503163377,
+      "lon":-54.2118911319999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Terra Nova National Park of Canada",
+      "lat":48.5305556,
+      "lon":-53.9280555,
+      "province":"NL"
+   },
+   {
+      "display_name":"Terrenceville",
+      "lat":47.66186398,
+      "lon":-54.7250114149999,
+      "province":"NL"
+   },
+   {
+      "display_name":"The Beaches",
+      "lat":49.575193,
+      "lon":-56.8273107639999,
+      "province":"NL"
+   },
+   {
+      "display_name":"The Dock",
+      "lat":47.57174612,
+      "lon":-53.2538785159999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Thornlea",
+      "lat":47.609001938,
+      "lon":-53.7218481359999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Three Rock Cove",
+      "lat":48.623599747,
+      "lon":-59.0932190709999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Tickle Cove",
+      "lat":48.580954728,
+      "lon":-53.4839713729999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Tilt Cove",
+      "lat":49.887208132,
+      "lon":-55.6198094569999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Tilting",
+      "lat":49.706261733,
+      "lon":-54.0721794069999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Tizzard's Harbour",
+      "lat":49.594791246,
+      "lon":-54.8047447129999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Tompkins",
+      "lat":47.796030782,
+      "lon":-59.2265319489999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Topsail",
+      "lat":47.539830143,
+      "lon":-52.9227034399999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Torbay",
+      "lat":47.657952203,
+      "lon":-52.7376921969999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Torngat Mountains National Park of Canada",
+      "lat":59.4358,
+      "lon":-63.6964,
+      "province":"NL"
+   },
+   {
+      "display_name":"Tors Cove",
+      "lat":47.214693692,
+      "lon":-52.8492573959999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Traytown",
+      "lat":48.660374846,
+      "lon":-53.9652870179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Trepassey",
+      "lat":46.733300822,
+      "lon":-53.3674789019999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Trinity East",
+      "lat":48.378570027,
+      "lon":-53.3477605639999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Triton",
+      "lat":49.515170677,
+      "lon":-55.6179379299999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Trout River",
+      "lat":49.477569752,
+      "lon":-58.1260410249999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Tshiashku-paushtikᵘ (Gull Island Rapids)",
+      "lat":52.9714586,
+      "lon":-61.4452308,
+      "province":"NL"
+   },
+   {
+      "display_name":"Turks Cove",
+      "lat":47.934282272,
+      "lon":-53.3455111239999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Twillingate",
+      "lat":49.644195798,
+      "lon":-54.7647622659999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Upper Amherst Cove",
+      "lat":48.557639299,
+      "lon":-53.2318301499999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Upper Ferry",
+      "lat":47.845331528,
+      "lon":-59.2470201439999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Upper Gullies",
+      "lat":47.480217572,
+      "lon":-53.0460553879999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Upper Island Cove",
+      "lat":47.647865678,
+      "lon":-53.2071399789999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Valley Pond",
+      "lat":49.570825142,
+      "lon":-54.8965510759999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Valleyfield",
+      "lat":49.128597685,
+      "lon":-53.6180259519999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Victoria",
+      "lat":47.767428301,
+      "lon":-53.2407207869999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Victoria Cove",
+      "lat":49.356210869,
+      "lon":-54.5020768879999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Virgin Arm-Carter's Cove",
+      "lat":49.530917539,
+      "lon":-54.7737961899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wabana",
+      "lat":47.645628243,
+      "lon":-52.9481426809999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wabush",
+      "lat":52.900170628,
+      "lon":-66.8671275509999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wareham",
+      "lat":49.016837661,
+      "lon":-53.8680699119999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wedgewood Park",
+      "lat":47.605901047,
+      "lon":-52.7055288689999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wesleyville",
+      "lat":49.149782832,
+      "lon":-53.5590061209999,
+      "province":"NL"
+   },
+   {
+      "display_name":"West Bay",
+      "lat":48.623036192,
+      "lon":-58.9764312409999,
+      "province":"NL"
+   },
+   {
+      "display_name":"West Bay Centre",
+      "lat":48.601667295,
+      "lon":-58.9537251009999,
+      "province":"NL"
+   },
+   {
+      "display_name":"West St. Modeste",
+      "lat":51.603383195,
+      "lon":-56.7130553199999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Western Bay",
+      "lat":47.883724158,
+      "lon":-53.0870948209999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Westport",
+      "lat":49.786573797,
+      "lon":-56.6364651179999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Whitbourne",
+      "lat":47.42008116,
+      "lon":-53.5322596439999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Whiteway",
+      "lat":47.67843904,
+      "lon":-53.4865558589999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wild Bight",
+      "lat":51.610177651,
+      "lon":-55.9006550709999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wild Cove (Baie Verte-White Bay)",
+      "lat":49.990312141,
+      "lon":-56.3357020989999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Williams Harbour",
+      "lat":52.554927467,
+      "lon":-55.7602510899999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wiltondale",
+      "lat":49.39487515,
+      "lon":-57.6100357949999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Windmill Bight Provincial Park",
+      "lat":49.2763889,
+      "lon":-53.5605555,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wings Point",
+      "lat":49.328186836,
+      "lon":-54.4850892479999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Winter Brook",
+      "lat":48.417114861,
+      "lon":-53.7442664749999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Winterhouse",
+      "lat":48.692459518,
+      "lon":-58.9288640449999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Winterland",
+      "lat":47.156517462,
+      "lon":-55.2999556039999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Winterton",
+      "lat":47.960559354,
+      "lon":-53.3290780289999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Witless Bay",
+      "lat":47.278624703,
+      "lon":-52.8312922779999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Woodford's",
+      "lat":47.404282071,
+      "lon":-53.1516858419999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Woodstock",
+      "lat":49.966009909,
+      "lon":-55.8811903339999,
+      "province":"NL"
+   },
+   {
+      "display_name":"Wreck Cove",
+      "lat":47.495786239,
+      "lon":-55.6060730119999,
+      "province":"NL"
+   },
+   {
+      "display_name":"York Harbour",
+      "lat":49.063590921,
+      "lon":-58.3844361059999,
+      "province":"NL"
+   }
+]

@@ -1,0 +1,464 @@
+[
+   {
+      "display_name":"Aishihik",
+      "lat":61.5985999,
+      "lon":-137.508299999999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Aitch Hill",
+      "lat":66.1566666,
+      "lon":-137.1494443,
+      "province":"YT"
+   },
+   {
+      "display_name":"Beaver Creek",
+      "lat":62.378942448,
+      "lon":-140.885174196999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Braeburn",
+      "lat":61.481523716,
+      "lon":-135.748254517999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Brooks Brook",
+      "lat":60.418936587,
+      "lon":-133.190594961,
+      "province":"YT"
+   },
+   {
+      "display_name":"Burwash Landing",
+      "lat":61.3541999,
+      "lon":-138.994399899999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Canyon",
+      "lat":60.8583,
+      "lon":-137.054199899999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Canyon City",
+      "lat":61.810968522,
+      "lon":-140.756085280999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Carcross",
+      "lat":60.169435303,
+      "lon":-134.701233949999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Carcross Cutoff",
+      "lat":60.5957999,
+      "lon":-134.877799999999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Carmacks",
+      "lat":62.088844923,
+      "lon":-136.284319415999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Champagne",
+      "lat":60.7889,
+      "lon":-136.4792,
+      "province":"YT"
+   },
+   {
+      "display_name":"Clinton Creek",
+      "lat":64.415022531,
+      "lon":-140.601957252999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Conrad",
+      "lat":60.069130585,
+      "lon":-134.564092545,
+      "province":"YT"
+   },
+   {
+      "display_name":"Cowley",
+      "lat":60.525300513,
+      "lon":-134.897362409999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Crestview",
+      "lat":60.823090894,
+      "lon":-135.203729992999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Dalton Post",
+      "lat":60.118635195,
+      "lon":-137.037576249999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Dawson",
+      "lat":64.0624999,
+      "lon":-139.430599999999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Destruction Bay",
+      "lat":61.2542,
+      "lon":-138.806899899999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Dezadeash",
+      "lat":60.3722,
+      "lon":-137.055599999999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Dry Creek",
+      "lat":62.1666999,
+      "lon":-140.683299999999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Eagle Plains",
+      "lat":66.371031589,
+      "lon":-136.720396701999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Elsa",
+      "lat":63.90759466,
+      "lon":-135.476431368999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Faro",
+      "lat":62.227432822,
+      "lon":-133.350033002999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Fort Selkirk",
+      "lat":62.772267442,
+      "lon":-137.393702726999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Forty Mile",
+      "lat":64.426871696,
+      "lon":-140.532872947999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Frances Lake",
+      "lat":61.275671983,
+      "lon":-129.274560174,
+      "province":"YT"
+   },
+   {
+      "display_name":"Haines Junction",
+      "lat":60.754532477,
+      "lon":-137.510559972999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Herschel",
+      "lat":69.572672846,
+      "lon":-138.900798744999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Herschel Island Territorial Park",
+      "lat":69.5897222,
+      "lon":-139.0991667,
+      "province":"YT"
+   },
+   {
+      "display_name":"Ibex Valley",
+      "lat":60.849373669,
+      "lon":-135.639273067999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Ivvavik National Park of Canada",
+      "lat":69.083333,
+      "lon":-139.5,
+      "province":"YT"
+   },
+   {
+      "display_name":"Jakes Corner",
+      "lat":60.338597409,
+      "lon":-133.983665729999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Johnsons Crossing",
+      "lat":60.4888999,
+      "lon":-133.297200000999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Keno Hill",
+      "lat":63.9083,
+      "lon":-135.302799998999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Kluane National Park and Reserve of Canada",
+      "lat":60.453515,
+      "lon":-137.8291619,
+      "province":"YT"
+   },
+   {
+      "display_name":"Klukshu",
+      "lat":60.294497361,
+      "lon":-137.004357939999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Koidern",
+      "lat":61.982850435,
+      "lon":-140.484758409999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Lewis",
+      "lat":60.3332999,
+      "lon":-134.815299899999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Little Gold",
+      "lat":64.08527778,
+      "lon":-140.999999998999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Little River",
+      "lat":60.909434315,
+      "lon":-135.687355154,
+      "province":"YT"
+   },
+   {
+      "display_name":"Little Salmon",
+      "lat":62.056120893,
+      "lon":-135.701400489999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Little Teslin Lake",
+      "lat":60.4818999,
+      "lon":-133.4652999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Marsh Lake",
+      "lat":60.519295406,
+      "lon":-134.332236616999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Mayo",
+      "lat":63.5930999,
+      "lon":-135.8957999,
+      "province":"YT"
+   },
+   {
+      "display_name":"McCabe Creek",
+      "lat":62.528441076,
+      "lon":-136.783801768,
+      "province":"YT"
+   },
+   {
+      "display_name":"Mendenhall Landing",
+      "lat":60.7528,
+      "lon":-136.0388999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Minto",
+      "lat":62.584798115,
+      "lon":-136.850845771999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Morley River",
+      "lat":60.012983451,
+      "lon":-132.161519785999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Mount Lorne",
+      "lat":60.412552073,
+      "lon":-134.952267528999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Nesketahin",
+      "lat":60.132466541,
+      "lon":-137.062083251,
+      "province":"YT"
+   },
+   {
+      "display_name":"Old Crow",
+      "lat":67.572866152,
+      "lon":-139.829234373999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Pelly Crossing",
+      "lat":62.819789744,
+      "lon":-136.574251100999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Porter Creek",
+      "lat":60.769933881,
+      "lon":-135.135883203999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Quill Creek",
+      "lat":61.515626044,
+      "lon":-139.319882907999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Rampart House",
+      "lat":67.42186301,
+      "lon":-140.993223796,
+      "province":"YT"
+   },
+   {
+      "display_name":"Rancheria",
+      "lat":60.0875,
+      "lon":-130.602800001,
+      "province":"YT"
+   },
+   {
+      "display_name":"Riverdale",
+      "lat":60.7068999,
+      "lon":-135.0236,
+      "province":"YT"
+   },
+   {
+      "display_name":"Robinson",
+      "lat":60.451158575,
+      "lon":-134.845745918999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Ross River",
+      "lat":61.977905945,
+      "lon":-132.449015463999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Snag",
+      "lat":62.3999999,
+      "lon":-140.366699999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Snag Junction",
+      "lat":62.234787154,
+      "lon":-140.692008092999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Stewart Crossing",
+      "lat":63.367464482,
+      "lon":-136.679360595,
+      "province":"YT"
+   },
+   {
+      "display_name":"Stewart River",
+      "lat":63.310238239,
+      "lon":-139.414540401999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Stony Creek Camp",
+      "lat":60.800963022,
+      "lon":-135.976346577999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Swift River",
+      "lat":60.0041999,
+      "lon":-131.187499899999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Tagish",
+      "lat":60.310003944,
+      "lon":-134.265545733999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Takhini",
+      "lat":60.853342299,
+      "lon":-135.447147910999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Ten Mile",
+      "lat":60.1667,
+      "lon":-134.366699999999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Teslin",
+      "lat":60.168258968,
+      "lon":-132.718999549999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Teslin Lake",
+      "lat":60.233848731,
+      "lon":-132.903921845999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Tuchitua",
+      "lat":60.9208,
+      "lon":-129.216699899,
+      "province":"YT"
+   },
+   {
+      "display_name":"Upper Laberge",
+      "lat":60.950943511,
+      "lon":-135.132275566999,
+      "province":"YT"
+   },
+   {
+      "display_name":"Upper Liard",
+      "lat":60.054492519,
+      "lon":-128.922550684,
+      "province":"YT"
+   },
+   {
+      "display_name":"Vuntut National Park of Canada",
+      "lat":68.4102777999999,
+      "lon":-139.7913889,
+      "province":"YT"
+   },
+   {
+      "display_name":"Watson Lake",
+      "lat":60.0638999,
+      "lon":-128.705599899,
+      "province":"YT"
+   },
+   {
+      "display_name":"Whitehorse",
+      "lat":60.726986008,
+      "lon":-135.074072522999,
+      "province":"YT"
+   }
+]
